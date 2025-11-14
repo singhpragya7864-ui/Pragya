@@ -1,0 +1,1001 @@
+Order_ID,Date,Customer_ID,Product_Category,Unnamed:_4,Product_Name,Quantity,Unit_Price_INR,Total_Sales_INR,Payment_Method,Delivery_Status,Review_Rating,Review_Text,State,Country
+ORD100000,25-01-2025,CUST2796,Home & Kitchen,,Cookware Set,2,25574.41,51148.82,Credit Card,Returned,1,Waste of money,Sikkim,India
+ORD100001,28-08-2025,CUST9669,Beauty,,Hair Dryer,1,19361.41,19361.41,Debit Card,Returned,5,Excellent product!,Telangana,India
+ORD100002,27-02-2025,CUST5808,Electronics,,Tablet,3,38476.22,115428.66,Cash on Delivery,Delivered,3,Fair deal,Nagaland,India
+ORD100003,24-02-2025,CUST5889,Electronics,,Headphones,5,38145.72,190728.6,Credit Card,Delivered,5,Highly recommend!,Assam,India
+ORD100004,15-06-2025,CUST9005,Clothing,,Saree,5,45940.98,229704.9,UPI,Delivered,5,Highly recommend!,Odisha,India
+ORD100005,10-02-2025,CUST2403,Home & Kitchen,,Cookware Set,1,12195.41,12195.41,Cash on Delivery,Delivered,5,Fantastic quality!,Maharashtra,India
+ORD100006,16-05-2025,CUST9645,Clothing,,Jeans,4,47353.06,189412.24,Cash on Delivery,Delivered,2,Poor packaging,Arunachal Pradesh,India
+ORD100007,13-08-2025,CUST9479,Clothing,,Sneakers,4,49758.44,199033.76,Cash on Delivery,Delivered,3,Okay product,Andhra Pradesh,India
+ORD100008,28-04-2025,CUST4608,Clothing,,T-Shirt,3,1247.51,3742.53,UPI,Delivered,5,Excellent product!,Assam,India
+ORD100009,21-09-2025,CUST4899,Clothing,,T-Shirt,1,43009.84,43009.84,Debit Card,Returned,1,Terrible experience,Gujarat,India
+ORD100010,23-10-2025,CUST8744,Clothing,,Saree,2,36222.96,72445.92,Credit Card,Pending,5,Worth every rupee!,Haryana,India
+ORD100011,05-08-2025,CUST7735,Clothing,,T-Shirt,1,33017.34,33017.34,Cash on Delivery,Returned,3,Average,Mizoram,India
+ORD100012,08-05-2025,CUST4139,Electronics,,Smartphone,4,36465.04,145860.16,Credit Card,Returned,1,Terrible experience,Punjab,India
+ORD100013,08-02-2025,CUST8260,Clothing,,Jacket,2,14071.55,28143.1,UPI,Delivered,2,Poor packaging,Andhra Pradesh,India
+ORD100014,04-09-2025,CUST4502,Electronics,,Smartphone,2,8482.29,16964.58,Cash on Delivery,Delivered,4,Satisfied with the product,Nagaland,India
+ORD100015,27-05-2025,CUST7930,Beauty,,Face Cream,4,13407.11,53628.44,Cash on Delivery,Delivered,4,Satisfied with the product,Gujarat,India
+ORD100016,01-02-2025,CUST6138,Home & Kitchen,,Cookware Set,1,29043.18,29043.18,UPI,Delivered,5,Fantastic quality!,Tamil Nadu,India
+ORD100017,11-02-2025,CUST4044,Beauty,,Hair Dryer,5,8040.15,40200.75,UPI,Returned,5,Excellent product!,Rajasthan,India
+ORD100018,07-05-2025,CUST1651,Clothing,,Jacket,1,47091.49,47091.49,UPI,Pending,5,Fantastic quality!,Tamil Nadu,India
+ORD100019,09-12-2025,CUST6147,Books,,Comics,3,46748.37,140245.11,Credit Card,Pending,2,Product not as expected,Nagaland,India
+ORD100020,05-01-2025,CUST8508,Clothing,,Sneakers,4,15945.62,63782.48,UPI,Delivered,1,Never buying again,Maharashtra,India
+ORD100021,05-02-2025,CUST5002,Clothing,,Saree,3,6796.34,20389.02,Debit Card,Pending,3,Okay product,Haryana,India
+ORD100022,05-01-2025,CUST5905,Beauty,,Hair Dryer,3,30661.55,91984.65,UPI,Delivered,5,Highly recommend!,Manipur,India
+ORD100023,06-11-2025,CUST4450,Electronics,,Smartphone,5,7941.31,39706.55,Debit Card,Delivered,3,Could be better,Odisha,India
+ORD100024,17-02-2025,CUST7939,Books,,Children's Book,3,45285.76,135857.28,Debit Card,Delivered,1,Very bad product,Himachal Pradesh,India
+ORD100025,10-10-2025,CUST8007,Home & Kitchen,,Cookware Set,3,8246.78,24740.34,UPI,Delivered,4,Good quality,Uttar Pradesh,India
+ORD100026,10-10-2025,CUST3426,Clothing,,Saree,1,41762.83,41762.83,Cash on Delivery,Delivered,5,Excellent product!,West Bengal,India
+ORD100027,16-12-2025,CUST5088,Home & Kitchen,,Vacuum Cleaner,1,44966.45,44966.45,UPI,Pending,2,Poor packaging,Andhra Pradesh,India
+ORD100028,25-03-2025,CUST3900,Beauty,,Hair Dryer,2,46303.04,92606.08,Cash on Delivery,Delivered,2,Quality could improve,Tripura,India
+ORD100029,15-07-2025,CUST1634,Home & Kitchen,,Air Fryer,2,13486.92,26973.84,Cash on Delivery,Delivered,1,Waste of money,Uttar Pradesh,India
+ORD100030,25-04-2025,CUST1387,Beauty,,Lipstick,3,41062.71,123188.13,Credit Card,Pending,2,Disappointed,Goa,India
+ORD100031,24-07-2025,CUST9785,Home & Kitchen,,Mixer Grinder,3,17687.08,53061.24,Debit Card,Delivered,5,Excellent product!,Tamil Nadu,India
+ORD100032,20-01-2025,CUST2776,Home & Kitchen,,Cookware Set,5,48134.21,240671.05,Cash on Delivery,Pending,3,Could be better,Maharashtra,India
+ORD100033,08-04-2025,CUST5173,Beauty,,Hair Dryer,5,5959.16,29795.8,UPI,Returned,5,Worth every rupee!,Karnataka,India
+ORD100034,06-07-2025,CUST8066,Electronics,,Tablet,5,34405.49,172027.45,UPI,Returned,2,Disappointed,Himachal Pradesh,India
+ORD100035,17-09-2025,CUST6067,Books,,Biography,1,36043.76,36043.76,Cash on Delivery,Pending,3,Fair deal,Chhattisgarh,India
+ORD100036,13-12-2025,CUST3851,Home & Kitchen,,Water Purifier,2,9753.64,19507.28,Debit Card,Pending,4,Would buy again,Gujarat,India
+ORD100037,07-11-2025,CUST6279,Electronics,,Headphones,3,10667.1,32001.3,Cash on Delivery,Pending,5,Worth every rupee!,Tripura,India
+ORD100038,04-12-2025,CUST2389,Clothing,,Saree,4,39728.02,158912.08,Debit Card,Returned,2,Poor packaging,Karnataka,India
+ORD100039,12-04-2025,CUST3414,Home & Kitchen,,Mixer Grinder,2,33705.22,67410.44,UPI,Delivered,2,Quality could improve,Bihar,India
+ORD100040,10-04-2025,CUST7291,Beauty,,Hair Dryer,1,22879.73,22879.73,Cash on Delivery,Pending,5,Loved it!,Assam,India
+ORD100041,01-04-2025,CUST9486,Clothing,,T-Shirt,1,38965.34,38965.34,Cash on Delivery,Delivered,2,Poor packaging,Madhya Pradesh,India
+ORD100042,08-12-2025,CUST9702,Clothing,,T-Shirt,4,6840.29,27361.16,Debit Card,Pending,4,Would buy again,Bihar,India
+ORD100043,01-09-2025,CUST8373,Books,,Children's Book,5,22406.5,112032.5,Debit Card,Delivered,2,Disappointed,Kerala,India
+ORD100044,27-05-2025,CUST4841,Books,,Children's Book,2,13874.95,27749.9,Debit Card,Pending,1,Defective item,West Bengal,India
+ORD100045,22-12-2025,CUST3503,Books,,Fiction Novel,2,7711.37,15422.74,Credit Card,Delivered,4,Pretty decent,Kerala,India
+ORD100046,16-04-2025,CUST7883,Beauty,,Lipstick,5,23403.03,117015.15,Cash on Delivery,Returned,1,Very bad product,Punjab,India
+ORD100047,02-06-2025,CUST7389,Books,,Children's Book,4,493.62,1974.48,Cash on Delivery,Returned,3,Not bad,Himachal Pradesh,India
+ORD100048,06-09-2025,CUST1475,Books,,Science Textbook,4,11127.2,44508.8,Cash on Delivery,Pending,4,Pretty decent,Uttar Pradesh,India
+ORD100049,14-01-2025,CUST7455,Clothing,,Jacket,2,49039.95,98079.9,UPI,Delivered,5,Worth every rupee!,Arunachal Pradesh,India
+ORD100050,17-06-2025,CUST4467,Clothing,,Jacket,2,2704.17,5408.34,Cash on Delivery,Pending,4,Value for money,Telangana,India
+ORD100051,29-08-2025,CUST1317,Beauty,,Lipstick,4,12763.12,51052.48,UPI,Pending,1,Waste of money,Manipur,India
+ORD100052,11-01-2025,CUST3496,Electronics,,Smartphone,1,47490.66,47490.66,Credit Card,Delivered,2,Product not as expected,Nagaland,India
+ORD100053,08-07-2025,CUST3749,Electronics,,Tablet,2,23358.69,46717.38,UPI,Delivered,3,Could be better,Bihar,India
+ORD100054,13-12-2025,CUST7149,Electronics,,Tablet,1,46458.58,46458.58,Cash on Delivery,Returned,5,Loved it!,Madhya Pradesh,India
+ORD100055,17-12-2025,CUST2983,Electronics,,Tablet,2,5274.69,10549.38,UPI,Pending,3,Not bad,Assam,India
+ORD100056,07-01-2025,CUST7882,Beauty,,Lipstick,1,25396.85,25396.85,Cash on Delivery,Delivered,3,Fair deal,Nagaland,India
+ORD100057,30-11-2025,CUST5425,Home & Kitchen,,Air Fryer,2,21887.26,43774.52,Cash on Delivery,Pending,5,Worth every rupee!,Jharkhand,India
+ORD100058,23-05-2025,CUST8385,Books,,Biography,3,42615.32,127845.96,Credit Card,Pending,1,Never buying again,Uttarakhand,India
+ORD100059,04-04-2025,CUST8988,Books,,Children's Book,3,1629.26,4887.78,Credit Card,Pending,3,Could be better,Rajasthan,India
+ORD100060,12-10-2025,CUST1166,Home & Kitchen,,Vacuum Cleaner,5,35118.95,175594.75,Credit Card,Delivered,3,Okay product,Punjab,India
+ORD100061,27-11-2025,CUST9041,Beauty,,Shampoo,5,37956.6,189783.0,Cash on Delivery,Delivered,4,Good quality,West Bengal,India
+ORD100062,06-12-2025,CUST7046,Home & Kitchen,,Cookware Set,4,34651.0,138604.0,Cash on Delivery,Returned,3,Not bad,Kerala,India
+ORD100063,19-05-2025,CUST6023,Home & Kitchen,,Air Fryer,5,16673.41,83367.05,Debit Card,Delivered,4,Good quality,Odisha,India
+ORD100064,09-04-2025,CUST4545,Clothing,,Sneakers,1,37195.48,37195.48,Cash on Delivery,Pending,2,Poor packaging,Gujarat,India
+ORD100065,01-06-2025,CUST4727,Books,,Comics,3,49029.43,147088.29,Debit Card,Delivered,2,Disappointed,Tamil Nadu,India
+ORD100066,11-10-2025,CUST5786,Electronics,,Tablet,2,13860.7,27721.4,Credit Card,Returned,1,Terrible experience,Assam,India
+ORD100067,14-08-2025,CUST6582,Electronics,,Smartphone,5,14360.1,71800.5,Credit Card,Delivered,4,Value for money,Arunachal Pradesh,India
+ORD100068,23-10-2025,CUST1878,Beauty,,Face Cream,1,20155.23,20155.23,Credit Card,Delivered,1,Never buying again,Sikkim,India
+ORD100069,07-11-2025,CUST4697,Home & Kitchen,,Mixer Grinder,2,6098.89,12197.78,Cash on Delivery,Pending,4,Pretty decent,Haryana,India
+ORD100070,31-01-2025,CUST2625,Home & Kitchen,,Water Purifier,4,15407.94,61631.76,Credit Card,Returned,5,Loved it!,Tripura,India
+ORD100071,08-02-2025,CUST3564,Home & Kitchen,,Mixer Grinder,2,12145.29,24290.58,UPI,Pending,5,Worth every rupee!,Jharkhand,India
+ORD100072,28-12-2025,CUST5632,Books,,Children's Book,3,1825.46,5476.38,Cash on Delivery,Delivered,3,Okay product,Assam,India
+ORD100073,26-04-2025,CUST3441,Home & Kitchen,,Water Purifier,2,21371.92,42743.84,Debit Card,Delivered,5,Excellent product!,West Bengal,India
+ORD100074,28-05-2025,CUST8195,Electronics,,Laptop,3,29833.19,89499.57,UPI,Pending,5,Highly recommend!,Haryana,India
+ORD100075,11-02-2025,CUST1653,Beauty,,Lipstick,5,27091.08,135455.4,Cash on Delivery,Returned,4,Value for money,West Bengal,India
+ORD100076,28-10-2025,CUST1339,Books,,Biography,1,4748.08,4748.08,Debit Card,Returned,5,Excellent product!,Bihar,India
+ORD100077,03-04-2025,CUST8141,Clothing,,Jacket,5,32645.17,163225.85,Cash on Delivery,Delivered,3,Fair deal,Madhya Pradesh,India
+ORD100078,24-03-2025,CUST6403,Home & Kitchen,,Air Fryer,3,16188.7,48566.1,Cash on Delivery,Returned,1,Terrible experience,Himachal Pradesh,India
+ORD100079,11-06-2025,CUST5135,Home & Kitchen,,Air Fryer,5,2027.52,10137.6,Debit Card,Delivered,1,Terrible experience,Manipur,India
+ORD100080,07-04-2025,CUST9494,Books,,Fiction Novel,5,23206.42,116032.1,Debit Card,Returned,1,Terrible experience,Rajasthan,India
+ORD100081,28-05-2025,CUST8178,Beauty,,Face Cream,2,13499.4,26998.8,Cash on Delivery,Delivered,2,Not satisfied,Uttarakhand,India
+ORD100082,10-10-2025,CUST7684,Books,,Science Textbook,2,15675.36,31350.72,UPI,Delivered,1,Very bad product,Kerala,India
+ORD100083,18-09-2025,CUST5479,Beauty,,Face Cream,2,25019.1,50038.2,Cash on Delivery,Pending,3,Fair deal,Goa,India
+ORD100084,03-11-2025,CUST9327,Clothing,,Jacket,5,7403.17,37015.85,Credit Card,Delivered,2,Disappointed,Kerala,India
+ORD100085,25-05-2025,CUST5891,Beauty,,Lipstick,5,13505.2,67526.0,Cash on Delivery,Delivered,1,Terrible experience,Kerala,India
+ORD100086,13-07-2025,CUST8460,Books,,Children's Book,3,16755.51,50266.53,Debit Card,Delivered,5,Loved it!,Gujarat,India
+ORD100087,23-01-2025,CUST6213,Books,,Children's Book,2,42829.45,85658.9,Cash on Delivery,Returned,4,Pretty decent,Sikkim,India
+ORD100088,15-09-2025,CUST6439,Beauty,,Perfume,4,48248.26,192993.04,UPI,Pending,2,Not satisfied,Himachal Pradesh,India
+ORD100089,02-12-2025,CUST3529,Books,,Children's Book,1,36177.7,36177.7,UPI,Pending,4,Value for money,Tamil Nadu,India
+ORD100090,12-12-2025,CUST9742,Home & Kitchen,,Water Purifier,4,32561.87,130247.48,Cash on Delivery,Pending,3,Fair deal,Sikkim,India
+ORD100091,27-04-2025,CUST2480,Books,,Fiction Novel,5,3607.35,18036.75,Cash on Delivery,Delivered,3,Average,Rajasthan,India
+ORD100092,16-06-2025,CUST1919,Beauty,,Perfume,3,45190.52,135571.56,Debit Card,Pending,1,Defective item,Assam,India
+ORD100093,16-12-2025,CUST3950,Beauty,,Perfume,2,26652.08,53304.16,Credit Card,Delivered,5,Excellent product!,Punjab,India
+ORD100094,26-10-2025,CUST3344,Books,,Children's Book,5,34220.1,171100.5,Credit Card,Pending,4,Value for money,Rajasthan,India
+ORD100095,28-05-2025,CUST9955,Beauty,,Lipstick,1,44965.64,44965.64,Credit Card,Delivered,4,Pretty decent,Goa,India
+ORD100096,20-12-2025,CUST5097,Home & Kitchen,,Water Purifier,3,32019.15,96057.45,Cash on Delivery,Pending,4,Satisfied with the product,Nagaland,India
+ORD100097,03-07-2025,CUST5847,Beauty,,Shampoo,1,12012.84,12012.84,Debit Card,Delivered,5,Worth every rupee!,Telangana,India
+ORD100098,07-11-2025,CUST9138,Home & Kitchen,,Mixer Grinder,5,43280.36,216401.8,Debit Card,Delivered,1,Never buying again,Haryana,India
+ORD100099,18-11-2025,CUST2591,Home & Kitchen,,Cookware Set,2,31120.38,62240.76,UPI,Pending,2,Product not as expected,Goa,India
+ORD100100,01-06-2025,CUST6352,Electronics,,Tablet,3,36671.52,110014.56,Cash on Delivery,Delivered,1,Waste of money,Manipur,India
+ORD100101,26-03-2025,CUST5210,Clothing,,Saree,3,26636.45,79909.35,Cash on Delivery,Pending,3,Could be better,Madhya Pradesh,India
+ORD100102,13-12-2025,CUST7511,Electronics,,Smartwatch,1,7209.7,7209.7,Debit Card,Delivered,2,Product not as expected,Himachal Pradesh,India
+ORD100103,11-12-2025,CUST5295,Electronics,,Headphones,5,6354.72,31773.6,Cash on Delivery,Returned,3,Could be better,Rajasthan,India
+ORD100104,17-06-2025,CUST4626,Electronics,,Laptop,4,1446.23,5784.92,UPI,Returned,5,Worth every rupee!,Tamil Nadu,India
+ORD100105,05-06-2025,CUST9071,Home & Kitchen,,Air Fryer,1,7160.9,7160.9,UPI,Delivered,1,Waste of money,Nagaland,India
+ORD100106,03-08-2025,CUST3531,Books,,Science Textbook,4,22791.46,91165.84,Cash on Delivery,Returned,5,Excellent product!,Haryana,India
+ORD100107,17-01-2025,CUST7070,Beauty,,Hair Dryer,4,46964.84,187859.36,Credit Card,Pending,3,Fair deal,Sikkim,India
+ORD100108,06-10-2025,CUST6876,Clothing,,Sneakers,1,49050.2,49050.2,UPI,Pending,3,Could be better,Karnataka,India
+ORD100109,25-11-2025,CUST1349,Clothing,,T-Shirt,4,4765.34,19061.36,UPI,Pending,2,Quality could improve,Uttarakhand,India
+ORD100110,17-04-2025,CUST4538,Clothing,,Saree,2,3616.79,7233.58,Credit Card,Pending,5,Loved it!,Tripura,India
+ORD100111,08-03-2025,CUST9850,Books,,Fiction Novel,3,42948.63,128845.89,Debit Card,Delivered,2,Not satisfied,Tripura,India
+ORD100112,29-10-2025,CUST6304,Electronics,,Laptop,1,18040.47,18040.47,UPI,Delivered,2,Disappointed,Arunachal Pradesh,India
+ORD100113,01-09-2025,CUST8344,Electronics,,Laptop,4,26399.06,105596.24,Debit Card,Returned,1,Never buying again,Haryana,India
+ORD100114,23-01-2025,CUST9543,Electronics,,Smartwatch,5,11233.18,56165.9,Debit Card,Pending,5,Excellent product!,Uttarakhand,India
+ORD100115,09-09-2025,CUST8267,Electronics,,Smartwatch,4,21428.43,85713.72,UPI,Delivered,1,Defective item,Arunachal Pradesh,India
+ORD100116,21-11-2025,CUST9984,Books,,Science Textbook,1,6484.34,6484.34,Debit Card,Pending,5,Fantastic quality!,Uttar Pradesh,India
+ORD100117,20-02-2025,CUST2874,Books,,Biography,4,25376.44,101505.76,Credit Card,Pending,4,Pretty decent,Karnataka,India
+ORD100118,01-08-2025,CUST2557,Clothing,,Jacket,3,41405.48,124216.44,Debit Card,Pending,4,Value for money,Madhya Pradesh,India
+ORD100119,04-02-2025,CUST2494,Home & Kitchen,,Vacuum Cleaner,2,34403.69,68807.38,UPI,Delivered,4,Pretty decent,Himachal Pradesh,India
+ORD100120,15-10-2025,CUST6400,Electronics,,Headphones,2,27907.26,55814.52,UPI,Pending,5,Highly recommend!,Assam,India
+ORD100121,23-02-2025,CUST9313,Beauty,,Face Cream,3,30100.42,90301.26,Credit Card,Delivered,3,Fair deal,Gujarat,India
+ORD100122,28-02-2025,CUST5564,Clothing,,T-Shirt,3,42299.6,126898.8,Credit Card,Pending,3,Not bad,Odisha,India
+ORD100123,15-01-2025,CUST3955,Books,,Comics,5,1507.44,7537.2,Debit Card,Returned,3,Could be better,Tamil Nadu,India
+ORD100124,17-10-2025,CUST7566,Home & Kitchen,,Vacuum Cleaner,1,9234.0,9234.0,UPI,Delivered,2,Not satisfied,Karnataka,India
+ORD100125,24-06-2025,CUST3578,Electronics,,Tablet,2,18934.48,37868.96,Debit Card,Pending,4,Value for money,Gujarat,India
+ORD100126,22-03-2025,CUST1815,Books,,Comics,1,44190.44,44190.44,UPI,Pending,2,Product not as expected,Rajasthan,India
+ORD100127,21-04-2025,CUST9394,Beauty,,Shampoo,5,22213.8,111069.0,UPI,Pending,3,Fair deal,Meghalaya,India
+ORD100128,24-01-2025,CUST4612,Electronics,,Headphones,5,24434.31,122171.55,Cash on Delivery,Returned,3,Average,Madhya Pradesh,India
+ORD100129,11-05-2025,CUST5742,Electronics,,Laptop,3,47277.14,141831.42,Debit Card,Delivered,2,Not satisfied,Rajasthan,India
+ORD100130,27-12-2025,CUST4770,Beauty,,Shampoo,2,6633.45,13266.9,Debit Card,Delivered,5,Worth every rupee!,Manipur,India
+ORD100131,10-06-2025,CUST8033,Electronics,,Smartwatch,1,23095.76,23095.76,Cash on Delivery,Returned,1,Terrible experience,Chhattisgarh,India
+ORD100132,29-03-2025,CUST8538,Home & Kitchen,,Mixer Grinder,4,1238.66,4954.64,Debit Card,Delivered,3,Fair deal,Himachal Pradesh,India
+ORD100133,10-02-2025,CUST7484,Electronics,,Laptop,4,29525.79,118103.16,Debit Card,Returned,5,Highly recommend!,Chhattisgarh,India
+ORD100134,29-09-2025,CUST9355,Clothing,,Sneakers,2,4003.69,8007.38,Credit Card,Pending,1,Defective item,Haryana,India
+ORD100135,30-03-2025,CUST3504,Clothing,,Jeans,1,7492.92,7492.92,UPI,Delivered,2,Product not as expected,Telangana,India
+ORD100136,26-11-2025,CUST6295,Beauty,,Hair Dryer,5,22555.48,112777.4,Debit Card,Delivered,5,Worth every rupee!,Nagaland,India
+ORD100137,30-10-2025,CUST1920,Electronics,,Smartwatch,4,31642.98,126571.92,Debit Card,Returned,3,Average,Nagaland,India
+ORD100138,27-05-2025,CUST2257,Home & Kitchen,,Air Fryer,4,2072.84,8291.36,UPI,Returned,3,Not bad,Himachal Pradesh,India
+ORD100139,19-08-2025,CUST4084,Books,,Children's Book,4,29100.4,116401.6,Debit Card,Returned,1,Terrible experience,Telangana,India
+ORD100140,13-02-2025,CUST9266,Books,,Science Textbook,1,22636.05,22636.05,Credit Card,Delivered,3,Okay product,Odisha,India
+ORD100141,06-07-2025,CUST7108,Beauty,,Shampoo,5,26232.85,131164.25,Debit Card,Pending,2,Product not as expected,Maharashtra,India
+ORD100142,03-02-2025,CUST6401,Home & Kitchen,,Water Purifier,1,39503.5,39503.5,UPI,Returned,3,Fair deal,Odisha,India
+ORD100143,11-02-2025,CUST3317,Home & Kitchen,,Vacuum Cleaner,5,43689.33,218446.65,Debit Card,Pending,3,Fair deal,Madhya Pradesh,India
+ORD100144,26-11-2025,CUST6381,Clothing,,Saree,1,15617.18,15617.18,Credit Card,Returned,4,Would buy again,Kerala,India
+ORD100145,08-06-2025,CUST3953,Electronics,,Smartwatch,5,18219.04,91095.2,Credit Card,Pending,3,Fair deal,Haryana,India
+ORD100146,21-02-2025,CUST9317,Clothing,,Jeans,2,7916.27,15832.54,UPI,Returned,3,Could be better,Chhattisgarh,India
+ORD100147,03-04-2025,CUST3712,Books,,Science Textbook,5,18960.65,94803.25,Cash on Delivery,Delivered,2,Product not as expected,Mizoram,India
+ORD100148,30-04-2025,CUST9749,Home & Kitchen,,Cookware Set,4,30607.65,122430.6,Credit Card,Pending,4,Pretty decent,Meghalaya,India
+ORD100149,25-05-2025,CUST7256,Clothing,,Sneakers,5,49225.1,246125.5,Cash on Delivery,Delivered,4,Satisfied with the product,Assam,India
+ORD100150,10-07-2025,CUST2680,Books,,Science Textbook,3,2798.55,8395.65,UPI,Pending,4,Good quality,Tripura,India
+ORD100151,12-08-2025,CUST2502,Clothing,,Sneakers,4,45284.25,181137.0,Credit Card,Pending,2,Disappointed,Arunachal Pradesh,India
+ORD100152,01-05-2025,CUST7326,Electronics,,Smartwatch,1,19943.41,19943.41,UPI,Pending,3,Okay product,West Bengal,India
+ORD100153,16-03-2025,CUST3254,Electronics,,Headphones,1,41990.98,41990.98,UPI,Pending,3,Fair deal,Bihar,India
+ORD100154,10-01-2025,CUST5193,Clothing,,Jacket,4,30844.34,123377.36,Credit Card,Delivered,1,Never buying again,Chhattisgarh,India
+ORD100155,02-05-2025,CUST5934,Books,,Comics,4,5737.11,22948.44,UPI,Delivered,3,Okay product,Rajasthan,India
+ORD100156,02-11-2025,CUST9782,Beauty,,Hair Dryer,4,3327.8,13311.2,UPI,Returned,4,Would buy again,Goa,India
+ORD100157,11-11-2025,CUST6780,Books,,Science Textbook,2,14705.34,29410.68,Credit Card,Returned,1,Terrible experience,Uttar Pradesh,India
+ORD100158,27-09-2025,CUST9914,Clothing,,T-Shirt,5,48737.79,243688.95,UPI,Pending,1,Terrible experience,Sikkim,India
+ORD100159,02-07-2025,CUST2106,Electronics,,Smartwatch,3,12831.78,38495.34,Debit Card,Delivered,1,Very bad product,Maharashtra,India
+ORD100160,23-06-2025,CUST3868,Books,,Biography,2,2407.92,4815.84,Cash on Delivery,Returned,5,Worth every rupee!,Punjab,India
+ORD100161,19-01-2025,CUST5807,Clothing,,Jeans,1,35859.04,35859.04,Credit Card,Delivered,4,Satisfied with the product,Assam,India
+ORD100162,31-08-2025,CUST5150,Electronics,,Headphones,3,25866.1,77598.3,UPI,Returned,5,Loved it!,Madhya Pradesh,India
+ORD100163,20-05-2025,CUST3039,Home & Kitchen,,Vacuum Cleaner,1,43316.75,43316.75,Debit Card,Pending,3,Fair deal,Madhya Pradesh,India
+ORD100164,21-12-2025,CUST9151,Beauty,,Shampoo,3,48691.43,146074.29,Debit Card,Returned,4,Value for money,Punjab,India
+ORD100165,07-10-2025,CUST5813,Electronics,,Smartwatch,1,21644.24,21644.24,Debit Card,Delivered,2,Not satisfied,Manipur,India
+ORD100166,27-03-2025,CUST8272,Home & Kitchen,,Vacuum Cleaner,3,22406.61,67219.83,Debit Card,Pending,4,Good quality,Mizoram,India
+ORD100167,08-02-2025,CUST7655,Home & Kitchen,,Water Purifier,4,13872.86,55491.44,Debit Card,Returned,1,Waste of money,Himachal Pradesh,India
+ORD100168,18-01-2025,CUST3068,Electronics,,Laptop,5,33968.83,169844.15,UPI,Delivered,4,Value for money,Nagaland,India
+ORD100169,14-12-2025,CUST8371,Home & Kitchen,,Air Fryer,5,1812.79,9063.95,Debit Card,Pending,2,Product not as expected,West Bengal,India
+ORD100170,10-06-2025,CUST5566,Electronics,,Tablet,2,26567.1,53134.2,Credit Card,Delivered,4,Good quality,Andhra Pradesh,India
+ORD100171,02-03-2025,CUST5288,Clothing,,Jacket,5,19471.97,97359.85,Debit Card,Returned,5,Worth every rupee!,Sikkim,India
+ORD100172,13-04-2025,CUST3009,Clothing,,Saree,3,34760.24,104280.72,Credit Card,Delivered,4,Pretty decent,Telangana,India
+ORD100173,08-12-2025,CUST6692,Clothing,,Jacket,1,40563.56,40563.56,UPI,Returned,3,Not bad,Bihar,India
+ORD100174,05-07-2025,CUST9335,Home & Kitchen,,Vacuum Cleaner,2,35648.09,71296.18,Credit Card,Delivered,2,Quality could improve,Sikkim,India
+ORD100175,21-10-2025,CUST7044,Clothing,,Jeans,4,1508.94,6035.76,Cash on Delivery,Returned,5,Loved it!,Nagaland,India
+ORD100176,27-09-2025,CUST7730,Books,,Fiction Novel,1,15602.68,15602.68,Cash on Delivery,Returned,4,Good quality,Tripura,India
+ORD100177,26-06-2025,CUST3102,Clothing,,Sneakers,1,22608.73,22608.73,Credit Card,Delivered,5,Worth every rupee!,Himachal Pradesh,India
+ORD100178,26-03-2025,CUST3653,Books,,Fiction Novel,1,26001.49,26001.49,Debit Card,Returned,3,Okay product,Tripura,India
+ORD100179,11-04-2025,CUST5496,Home & Kitchen,,Water Purifier,3,42327.5,126982.5,Credit Card,Returned,3,Could be better,Rajasthan,India
+ORD100180,31-10-2025,CUST3526,Books,,Comics,1,25228.14,25228.14,Credit Card,Returned,2,Poor packaging,Karnataka,India
+ORD100181,11-02-2025,CUST1744,Books,,Biography,5,2251.48,11257.4,Debit Card,Returned,1,Waste of money,Bihar,India
+ORD100182,18-11-2025,CUST9938,Books,,Children's Book,5,32021.76,160108.8,Debit Card,Returned,4,Value for money,Jharkhand,India
+ORD100183,19-12-2025,CUST1981,Beauty,,Perfume,4,15012.21,60048.84,Credit Card,Pending,1,Terrible experience,Maharashtra,India
+ORD100184,10-06-2025,CUST6231,Beauty,,Shampoo,2,17141.59,34283.18,Debit Card,Pending,2,Quality could improve,Goa,India
+ORD100185,27-08-2025,CUST3007,Home & Kitchen,,Water Purifier,5,5487.96,27439.8,Debit Card,Pending,2,Quality could improve,Manipur,India
+ORD100186,12-11-2025,CUST7850,Clothing,,T-Shirt,1,14652.56,14652.56,Credit Card,Delivered,4,Value for money,Andhra Pradesh,India
+ORD100187,21-09-2025,CUST8648,Books,,Biography,2,38203.44,76406.88,Cash on Delivery,Pending,4,Pretty decent,Telangana,India
+ORD100188,21-04-2025,CUST6781,Electronics,,Smartphone,4,25371.13,101484.52,UPI,Delivered,2,Disappointed,Telangana,India
+ORD100189,25-02-2025,CUST8060,Beauty,,Hair Dryer,4,14430.27,57721.08,Credit Card,Pending,1,Defective item,Himachal Pradesh,India
+ORD100190,15-10-2025,CUST4189,Beauty,,Lipstick,1,20148.96,20148.96,Debit Card,Returned,5,Highly recommend!,Mizoram,India
+ORD100191,24-05-2025,CUST2946,Electronics,,Smartwatch,5,22627.65,113138.25,Credit Card,Delivered,5,Worth every rupee!,Tripura,India
+ORD100192,12-04-2025,CUST9341,Home & Kitchen,,Vacuum Cleaner,5,46959.64,234798.2,Cash on Delivery,Returned,2,Not satisfied,Goa,India
+ORD100193,23-09-2025,CUST8487,Electronics,,Smartphone,2,35736.87,71473.74,Credit Card,Returned,4,Would buy again,Mizoram,India
+ORD100194,12-11-2025,CUST5902,Clothing,,Sneakers,5,16062.8,80314.0,Debit Card,Returned,4,Would buy again,Bihar,India
+ORD100195,08-07-2025,CUST6427,Books,,Children's Book,5,15129.57,75647.85,UPI,Pending,1,Never buying again,West Bengal,India
+ORD100196,23-10-2025,CUST4728,Home & Kitchen,,Mixer Grinder,5,23834.59,119172.95,UPI,Returned,5,Worth every rupee!,Rajasthan,India
+ORD100197,17-03-2025,CUST4968,Clothing,,Saree,5,38775.39,193876.95,UPI,Returned,4,Good quality,Jharkhand,India
+ORD100198,31-07-2025,CUST4340,Clothing,,T-Shirt,4,15821.89,63287.56,Cash on Delivery,Returned,2,Poor packaging,Uttarakhand,India
+ORD100199,16-06-2025,CUST8837,Beauty,,Face Cream,2,26030.42,52060.84,Cash on Delivery,Pending,5,Loved it!,Rajasthan,India
+ORD100200,09-11-2025,CUST8932,Beauty,,Hair Dryer,3,27404.41,82213.23,Credit Card,Delivered,3,Could be better,Mizoram,India
+ORD100201,28-05-2025,CUST4396,Books,,Biography,2,47085.98,94171.96,Cash on Delivery,Pending,3,Fair deal,Punjab,India
+ORD100202,13-12-2025,CUST9899,Home & Kitchen,,Water Purifier,3,14531.91,43595.73,Cash on Delivery,Pending,5,Highly recommend!,Gujarat,India
+ORD100203,27-06-2025,CUST8247,Clothing,,Sneakers,1,14523.99,14523.99,Debit Card,Returned,1,Terrible experience,Chhattisgarh,India
+ORD100204,23-12-2025,CUST5450,Clothing,,Jeans,5,13702.41,68512.05,Credit Card,Delivered,5,Fantastic quality!,Kerala,India
+ORD100205,26-04-2025,CUST4814,Books,,Science Textbook,2,2728.12,5456.24,UPI,Delivered,5,Worth every rupee!,Tripura,India
+ORD100206,03-01-2025,CUST3587,Home & Kitchen,,Air Fryer,1,34123.36,34123.36,Cash on Delivery,Returned,2,Product not as expected,Goa,India
+ORD100207,15-02-2025,CUST4804,Beauty,,Perfume,3,16194.15,48582.45,UPI,Delivered,1,Terrible experience,Nagaland,India
+ORD100208,29-05-2025,CUST1613,Clothing,,T-Shirt,4,39440.44,157761.76,UPI,Pending,2,Poor packaging,Tripura,India
+ORD100209,26-09-2025,CUST9092,Books,,Fiction Novel,3,14371.17,43113.51,Credit Card,Returned,5,Worth every rupee!,Mizoram,India
+ORD100210,28-11-2025,CUST5215,Home & Kitchen,,Cookware Set,1,16668.07,16668.07,Credit Card,Delivered,4,Value for money,Andhra Pradesh,India
+ORD100211,07-08-2025,CUST9442,Home & Kitchen,,Water Purifier,2,8939.65,17879.3,Debit Card,Delivered,4,Pretty decent,Punjab,India
+ORD100212,04-01-2025,CUST5272,Electronics,,Laptop,2,23977.21,47954.42,Cash on Delivery,Delivered,2,Product not as expected,Karnataka,India
+ORD100213,06-01-2025,CUST5285,Home & Kitchen,,Vacuum Cleaner,3,29206.55,87619.65,Debit Card,Returned,5,Loved it!,Meghalaya,India
+ORD100214,18-12-2025,CUST9233,Electronics,,Smartphone,4,15478.96,61915.84,Debit Card,Returned,4,Good quality,Andhra Pradesh,India
+ORD100215,02-09-2025,CUST3509,Home & Kitchen,,Vacuum Cleaner,5,11198.29,55991.45,Cash on Delivery,Returned,2,Poor packaging,Bihar,India
+ORD100216,07-12-2025,CUST4578,Home & Kitchen,,Air Fryer,5,45657.29,228286.45,Credit Card,Returned,5,Fantastic quality!,Kerala,India
+ORD100217,09-02-2025,CUST2838,Electronics,,Tablet,4,26503.02,106012.08,UPI,Returned,3,Not bad,Uttarakhand,India
+ORD100218,24-09-2025,CUST8239,Clothing,,Saree,5,7662.65,38313.25,UPI,Returned,3,Okay product,Uttar Pradesh,India
+ORD100219,29-01-2025,CUST8429,Books,,Children's Book,1,44964.69,44964.69,Credit Card,Returned,4,Pretty decent,Jharkhand,India
+ORD100220,12-01-2025,CUST7487,Beauty,,Hair Dryer,1,28028.1,28028.1,Debit Card,Delivered,3,Okay product,Haryana,India
+ORD100221,05-10-2025,CUST1987,Books,,Fiction Novel,1,21300.13,21300.13,UPI,Pending,1,Very bad product,Arunachal Pradesh,India
+ORD100222,11-07-2025,CUST7266,Home & Kitchen,,Air Fryer,2,38494.81,76989.62,Cash on Delivery,Pending,4,Pretty decent,Haryana,India
+ORD100223,02-03-2025,CUST3924,Electronics,,Tablet,2,32746.0,65492.0,Cash on Delivery,Returned,3,Okay product,Odisha,India
+ORD100224,11-12-2025,CUST9920,Clothing,,T-Shirt,1,48928.84,48928.84,Cash on Delivery,Returned,4,Pretty decent,Assam,India
+ORD100225,07-04-2025,CUST2848,Clothing,,Jeans,4,17438.75,69755.0,UPI,Returned,3,Fair deal,Assam,India
+ORD100226,01-11-2025,CUST1550,Books,,Fiction Novel,2,10462.86,20925.72,Cash on Delivery,Returned,1,Very bad product,Telangana,India
+ORD100227,22-04-2025,CUST1924,Clothing,,T-Shirt,4,22060.35,88241.4,Credit Card,Returned,5,Highly recommend!,Meghalaya,India
+ORD100228,02-05-2025,CUST5944,Clothing,,Saree,3,28958.25,86874.75,Credit Card,Returned,3,Not bad,Uttarakhand,India
+ORD100229,30-10-2025,CUST3869,Clothing,,Jacket,3,13902.67,41708.01,Cash on Delivery,Returned,5,Worth every rupee!,Assam,India
+ORD100230,23-12-2025,CUST7821,Electronics,,Headphones,4,39333.07,157332.28,Cash on Delivery,Delivered,3,Could be better,Tripura,India
+ORD100231,03-06-2025,CUST3365,Beauty,,Perfume,5,23781.24,118906.2,Cash on Delivery,Delivered,2,Poor packaging,Nagaland,India
+ORD100232,05-05-2025,CUST5177,Beauty,,Shampoo,5,26593.59,132967.95,Credit Card,Pending,4,Good quality,Tripura,India
+ORD100233,27-01-2025,CUST5398,Beauty,,Lipstick,1,26874.65,26874.65,Cash on Delivery,Returned,2,Poor packaging,Chhattisgarh,India
+ORD100234,10-12-2025,CUST4555,Books,,Fiction Novel,1,9570.53,9570.53,Cash on Delivery,Delivered,5,Highly recommend!,Chhattisgarh,India
+ORD100235,03-09-2025,CUST4974,Home & Kitchen,,Mixer Grinder,2,46870.56,93741.12,Credit Card,Pending,1,Waste of money,Sikkim,India
+ORD100236,29-11-2025,CUST6886,Books,,Biography,3,19156.95,57470.85,Debit Card,Pending,5,Highly recommend!,Meghalaya,India
+ORD100237,13-06-2025,CUST4328,Books,,Children's Book,4,5110.69,20442.76,Debit Card,Pending,4,Pretty decent,Nagaland,India
+ORD100238,14-05-2025,CUST7841,Electronics,,Tablet,2,37114.37,74228.74,Debit Card,Delivered,1,Waste of money,Goa,India
+ORD100239,13-09-2025,CUST6530,Home & Kitchen,,Cookware Set,4,28575.52,114302.08,Debit Card,Pending,2,Product not as expected,Himachal Pradesh,India
+ORD100240,08-09-2025,CUST4015,Beauty,,Perfume,3,8629.43,25888.29,UPI,Returned,5,Excellent product!,Mizoram,India
+ORD100241,04-02-2025,CUST3474,Electronics,,Smartphone,1,20737.13,20737.13,UPI,Delivered,2,Poor packaging,West Bengal,India
+ORD100242,05-09-2025,CUST8993,Beauty,,Lipstick,1,30968.19,30968.19,UPI,Delivered,5,Fantastic quality!,Punjab,India
+ORD100243,02-10-2025,CUST5697,Books,,Children's Book,1,1032.96,1032.96,UPI,Returned,3,Fair deal,Maharashtra,India
+ORD100244,09-04-2025,CUST9625,Clothing,,T-Shirt,1,26314.39,26314.39,Debit Card,Pending,2,Disappointed,Gujarat,India
+ORD100245,17-10-2025,CUST4984,Beauty,,Face Cream,3,47973.03,143919.09,Credit Card,Pending,4,Good quality,Nagaland,India
+ORD100246,01-09-2025,CUST1919,Electronics,,Smartphone,4,19087.35,76349.4,UPI,Returned,5,Loved it!,Tripura,India
+ORD100247,17-10-2025,CUST2562,Electronics,,Smartwatch,4,32316.38,129265.52,UPI,Delivered,3,Okay product,Telangana,India
+ORD100248,17-12-2025,CUST5593,Books,,Children's Book,3,2518.79,7556.37,UPI,Delivered,1,Defective item,Tamil Nadu,India
+ORD100249,09-02-2025,CUST5903,Electronics,,Laptop,5,7380.74,36903.7,Credit Card,Returned,4,Satisfied with the product,Gujarat,India
+ORD100250,19-12-2025,CUST2284,Books,,Children's Book,5,16720.15,83600.75,Debit Card,Delivered,2,Not satisfied,Tamil Nadu,India
+ORD100251,01-11-2025,CUST7499,Beauty,,Perfume,1,17161.52,17161.52,Debit Card,Delivered,5,Highly recommend!,Jharkhand,India
+ORD100252,10-08-2025,CUST4043,Beauty,,Shampoo,2,17919.4,35838.8,Cash on Delivery,Delivered,4,Would buy again,Madhya Pradesh,India
+ORD100253,14-07-2025,CUST3527,Home & Kitchen,,Cookware Set,1,4285.49,4285.49,Cash on Delivery,Pending,2,Disappointed,Sikkim,India
+ORD100254,04-07-2025,CUST5419,Electronics,,Smartphone,1,47159.42,47159.42,UPI,Delivered,4,Good quality,Rajasthan,India
+ORD100255,28-07-2025,CUST2692,Clothing,,Jacket,4,27937.85,111751.4,UPI,Delivered,5,Highly recommend!,Kerala,India
+ORD100256,17-07-2025,CUST1202,Books,,Fiction Novel,5,29982.58,149912.9,Debit Card,Pending,3,Fair deal,Manipur,India
+ORD100257,17-12-2025,CUST7237,Electronics,,Tablet,2,28683.63,57367.26,Credit Card,Delivered,2,Disappointed,Mizoram,India
+ORD100258,11-08-2025,CUST5521,Home & Kitchen,,Vacuum Cleaner,4,7467.55,29870.2,Cash on Delivery,Pending,2,Product not as expected,Manipur,India
+ORD100259,01-11-2025,CUST4203,Electronics,,Headphones,3,47222.27,141666.81,Cash on Delivery,Delivered,4,Satisfied with the product,Bihar,India
+ORD100260,14-07-2025,CUST6399,Home & Kitchen,,Mixer Grinder,4,16744.42,66977.68,Cash on Delivery,Pending,5,Worth every rupee!,Haryana,India
+ORD100261,03-09-2025,CUST6147,Books,,Science Textbook,3,16169.12,48507.36,Credit Card,Pending,2,Disappointed,Haryana,India
+ORD100262,12-07-2025,CUST5592,Home & Kitchen,,Air Fryer,5,39142.32,195711.6,Cash on Delivery,Pending,3,Average,Assam,India
+ORD100263,16-12-2025,CUST1440,Books,,Science Textbook,5,49863.79,249318.95,Cash on Delivery,Returned,2,Quality could improve,Karnataka,India
+ORD100264,11-12-2025,CUST9180,Beauty,,Lipstick,1,40984.49,40984.49,Credit Card,Returned,4,Value for money,Andhra Pradesh,India
+ORD100265,07-02-2025,CUST8357,Clothing,,Sneakers,2,35818.77,71637.54,Cash on Delivery,Returned,4,Pretty decent,Odisha,India
+ORD100266,26-12-2025,CUST9796,Books,,Comics,4,27273.53,109094.12,UPI,Delivered,3,Okay product,Nagaland,India
+ORD100267,19-06-2025,CUST8052,Home & Kitchen,,Cookware Set,5,2405.98,12029.9,UPI,Delivered,4,Good quality,Haryana,India
+ORD100268,25-10-2025,CUST4621,Home & Kitchen,,Cookware Set,5,37393.28,186966.4,Cash on Delivery,Pending,5,Worth every rupee!,Odisha,India
+ORD100269,05-09-2025,CUST2712,Beauty,,Hair Dryer,5,7707.1,38535.5,Debit Card,Pending,1,Very bad product,Haryana,India
+ORD100270,16-04-2025,CUST9537,Electronics,,Laptop,3,15732.14,47196.42,Cash on Delivery,Pending,4,Pretty decent,Andhra Pradesh,India
+ORD100271,23-01-2025,CUST2885,Electronics,,Smartwatch,4,16081.69,64326.76,UPI,Pending,3,Average,Assam,India
+ORD100272,19-06-2025,CUST7985,Clothing,,Jeans,5,8887.77,44438.85,Cash on Delivery,Delivered,2,Product not as expected,Tamil Nadu,India
+ORD100273,12-04-2025,CUST8365,Clothing,,Jeans,4,19900.0,79600.0,Cash on Delivery,Pending,5,Excellent product!,Rajasthan,India
+ORD100274,23-10-2025,CUST2667,Clothing,,Jeans,3,37665.81,112997.43,Credit Card,Pending,1,Defective item,Arunachal Pradesh,India
+ORD100275,28-09-2025,CUST6134,Clothing,,Jacket,1,13265.2,13265.2,Cash on Delivery,Returned,4,Pretty decent,Haryana,India
+ORD100276,13-11-2025,CUST3826,Books,,Fiction Novel,3,17728.85,53186.55,Debit Card,Returned,4,Would buy again,Assam,India
+ORD100277,01-03-2025,CUST3999,Electronics,,Laptop,3,6069.51,18208.53,Debit Card,Returned,3,Okay product,Arunachal Pradesh,India
+ORD100278,16-07-2025,CUST7931,Books,,Children's Book,4,29902.01,119608.04,Credit Card,Pending,5,Fantastic quality!,West Bengal,India
+ORD100279,06-04-2025,CUST6154,Clothing,,Saree,2,24584.17,49168.34,Cash on Delivery,Returned,2,Not satisfied,Karnataka,India
+ORD100280,15-10-2025,CUST9281,Home & Kitchen,,Mixer Grinder,4,6999.43,27997.72,Cash on Delivery,Pending,4,Pretty decent,Assam,India
+ORD100281,16-01-2025,CUST4613,Beauty,,Shampoo,4,8529.22,34116.88,Debit Card,Delivered,5,Highly recommend!,Mizoram,India
+ORD100282,17-10-2025,CUST9115,Clothing,,Saree,3,8576.81,25730.43,UPI,Returned,4,Good quality,Haryana,India
+ORD100283,14-08-2025,CUST9951,Home & Kitchen,,Water Purifier,3,27193.76,81581.28,Credit Card,Pending,1,Very bad product,Himachal Pradesh,India
+ORD100284,14-02-2025,CUST8193,Clothing,,Sneakers,1,22596.67,22596.67,UPI,Delivered,3,Okay product,Sikkim,India
+ORD100285,12-11-2025,CUST3281,Books,,Biography,5,31711.98,158559.9,Credit Card,Delivered,2,Not satisfied,Meghalaya,India
+ORD100286,28-03-2025,CUST6302,Books,,Biography,5,14198.03,70990.15,Debit Card,Pending,5,Fantastic quality!,Gujarat,India
+ORD100287,31-01-2025,CUST5543,Home & Kitchen,,Water Purifier,1,6952.33,6952.33,Credit Card,Returned,4,Satisfied with the product,Nagaland,India
+ORD100288,08-09-2025,CUST3329,Clothing,,Jeans,3,41458.39,124375.17,Debit Card,Returned,4,Pretty decent,Chhattisgarh,India
+ORD100289,26-07-2025,CUST9447,Beauty,,Shampoo,1,31754.66,31754.66,Debit Card,Returned,1,Defective item,Telangana,India
+ORD100290,23-08-2025,CUST6869,Beauty,,Shampoo,3,29181.39,87544.17,UPI,Returned,1,Terrible experience,Odisha,India
+ORD100291,26-05-2025,CUST6533,Clothing,,Jacket,2,24836.8,49673.6,Credit Card,Returned,3,Fair deal,Odisha,India
+ORD100292,09-01-2025,CUST3035,Home & Kitchen,,Mixer Grinder,1,5158.82,5158.82,Credit Card,Pending,4,Pretty decent,Meghalaya,India
+ORD100293,29-11-2025,CUST5945,Electronics,,Smartwatch,2,49785.56,99571.12,Credit Card,Pending,2,Not satisfied,Haryana,India
+ORD100294,27-01-2025,CUST7493,Home & Kitchen,,Vacuum Cleaner,1,18717.82,18717.82,Debit Card,Returned,2,Quality could improve,Uttar Pradesh,India
+ORD100295,09-02-2025,CUST3174,Beauty,,Face Cream,1,254.1,254.1,Credit Card,Returned,4,Pretty decent,Meghalaya,India
+ORD100296,22-12-2025,CUST3165,Electronics,,Smartphone,3,40892.03,122676.09,Cash on Delivery,Delivered,4,Satisfied with the product,Uttar Pradesh,India
+ORD100297,03-06-2025,CUST3246,Beauty,,Face Cream,1,5339.44,5339.44,Cash on Delivery,Delivered,3,Okay product,Maharashtra,India
+ORD100298,14-08-2025,CUST6753,Electronics,,Tablet,5,622.04,3110.2,Credit Card,Returned,2,Quality could improve,Gujarat,India
+ORD100299,21-02-2025,CUST3293,Beauty,,Hair Dryer,4,43026.13,172104.52,UPI,Returned,1,Terrible experience,Bihar,India
+ORD100300,22-05-2025,CUST2380,Home & Kitchen,,Air Fryer,3,39595.62,118786.86,Credit Card,Returned,2,Poor packaging,Bihar,India
+ORD100301,04-12-2025,CUST5942,Books,,Comics,3,38992.69,116978.07,Credit Card,Returned,1,Never buying again,Sikkim,India
+ORD100302,03-05-2025,CUST9108,Books,,Science Textbook,4,14917.99,59671.96,Cash on Delivery,Delivered,1,Waste of money,Maharashtra,India
+ORD100303,04-07-2025,CUST6185,Beauty,,Hair Dryer,1,26508.67,26508.67,Credit Card,Pending,1,Never buying again,Kerala,India
+ORD100304,07-02-2025,CUST1273,Beauty,,Lipstick,5,34210.51,171052.55,UPI,Delivered,4,Value for money,Maharashtra,India
+ORD100305,17-09-2025,CUST5693,Clothing,,T-Shirt,1,47444.26,47444.26,Cash on Delivery,Pending,4,Pretty decent,Maharashtra,India
+ORD100306,12-02-2025,CUST6077,Electronics,,Tablet,5,30879.14,154395.7,UPI,Returned,3,Okay product,Manipur,India
+ORD100307,08-06-2025,CUST8167,Clothing,,Saree,3,19658.43,58975.29,Credit Card,Delivered,1,Waste of money,West Bengal,India
+ORD100308,29-01-2025,CUST6067,Electronics,,Smartwatch,1,22777.92,22777.92,Credit Card,Delivered,5,Excellent product!,Telangana,India
+ORD100309,25-09-2025,CUST9474,Clothing,,T-Shirt,2,24921.36,49842.72,Debit Card,Delivered,3,Could be better,Arunachal Pradesh,India
+ORD100310,21-06-2025,CUST8034,Clothing,,Sneakers,1,38617.23,38617.23,Debit Card,Returned,1,Very bad product,Sikkim,India
+ORD100311,04-07-2025,CUST1908,Home & Kitchen,,Water Purifier,1,24908.15,24908.15,Cash on Delivery,Returned,5,Loved it!,Rajasthan,India
+ORD100312,12-12-2025,CUST2889,Home & Kitchen,,Cookware Set,3,38711.78,116135.34,Credit Card,Returned,5,Fantastic quality!,Rajasthan,India
+ORD100313,06-07-2025,CUST7274,Electronics,,Smartphone,1,12378.66,12378.66,Credit Card,Delivered,4,Good quality,Bihar,India
+ORD100314,13-06-2025,CUST5444,Books,,Children's Book,2,16225.74,32451.48,UPI,Returned,4,Value for money,Arunachal Pradesh,India
+ORD100315,24-01-2025,CUST7568,Electronics,,Tablet,1,9131.35,9131.35,UPI,Pending,5,Highly recommend!,Madhya Pradesh,India
+ORD100316,08-07-2025,CUST4287,Home & Kitchen,,Vacuum Cleaner,1,27743.95,27743.95,Debit Card,Returned,1,Defective item,Telangana,India
+ORD100317,11-04-2025,CUST9954,Books,,Science Textbook,4,18540.03,74160.12,Credit Card,Delivered,4,Good quality,Karnataka,India
+ORD100318,21-06-2025,CUST1023,Beauty,,Face Cream,2,27168.95,54337.9,Cash on Delivery,Returned,1,Defective item,Uttar Pradesh,India
+ORD100319,09-09-2025,CUST1981,Electronics,,Laptop,5,49159.16,245795.8,Credit Card,Returned,4,Value for money,West Bengal,India
+ORD100320,31-07-2025,CUST7102,Electronics,,Smartphone,2,44884.92,89769.84,Cash on Delivery,Returned,5,Excellent product!,Bihar,India
+ORD100321,08-02-2025,CUST2020,Books,,Fiction Novel,5,6848.99,34244.95,Cash on Delivery,Returned,4,Satisfied with the product,Haryana,India
+ORD100322,25-12-2025,CUST6345,Clothing,,Sneakers,3,42575.5,127726.5,Debit Card,Pending,4,Value for money,Gujarat,India
+ORD100323,25-02-2025,CUST3546,Clothing,,T-Shirt,2,6978.37,13956.74,UPI,Delivered,5,Worth every rupee!,Gujarat,India
+ORD100324,17-04-2025,CUST8404,Beauty,,Lipstick,4,6212.69,24850.76,Debit Card,Pending,3,Could be better,Nagaland,India
+ORD100325,27-12-2025,CUST1660,Electronics,,Smartphone,2,40418.33,80836.66,Credit Card,Pending,3,Okay product,Manipur,India
+ORD100326,13-12-2025,CUST5896,Electronics,,Laptop,3,19932.97,59798.91,Debit Card,Delivered,1,Very bad product,Chhattisgarh,India
+ORD100327,18-02-2025,CUST8570,Beauty,,Shampoo,5,37454.31,187271.55,UPI,Delivered,2,Not satisfied,Maharashtra,India
+ORD100328,10-07-2025,CUST2376,Electronics,,Smartphone,2,6709.62,13419.24,Debit Card,Delivered,4,Good quality,Goa,India
+ORD100329,19-06-2025,CUST3007,Electronics,,Laptop,4,40503.07,162012.28,UPI,Pending,1,Very bad product,Himachal Pradesh,India
+ORD100330,12-09-2025,CUST1483,Clothing,,Saree,4,41119.93,164479.72,Cash on Delivery,Returned,4,Pretty decent,Manipur,India
+ORD100331,24-05-2025,CUST8307,Clothing,,Sneakers,2,45433.55,90867.1,Credit Card,Delivered,3,Not bad,Haryana,India
+ORD100332,30-07-2025,CUST8848,Books,,Comics,2,32434.46,64868.92,UPI,Delivered,4,Value for money,West Bengal,India
+ORD100333,08-05-2025,CUST9907,Beauty,,Perfume,4,10133.0,40532.0,UPI,Pending,5,Highly recommend!,Assam,India
+ORD100334,15-09-2025,CUST6269,Beauty,,Hair Dryer,4,17332.9,69331.6,Cash on Delivery,Pending,5,Loved it!,Manipur,India
+ORD100335,30-01-2025,CUST8728,Electronics,,Headphones,5,11107.21,55536.05,Debit Card,Returned,3,Okay product,Uttar Pradesh,India
+ORD100336,01-10-2025,CUST1916,Clothing,,T-Shirt,2,32911.85,65823.7,Credit Card,Returned,3,Fair deal,West Bengal,India
+ORD100337,24-12-2025,CUST6878,Home & Kitchen,,Cookware Set,2,11980.25,23960.5,UPI,Returned,3,Could be better,West Bengal,India
+ORD100338,10-09-2025,CUST9882,Books,,Comics,2,28242.82,56485.64,Debit Card,Delivered,2,Product not as expected,Nagaland,India
+ORD100339,11-01-2025,CUST9625,Electronics,,Smartphone,1,11784.64,11784.64,Cash on Delivery,Delivered,2,Disappointed,Bihar,India
+ORD100340,15-06-2025,CUST1975,Books,,Science Textbook,2,17169.8,34339.6,UPI,Delivered,2,Poor packaging,Arunachal Pradesh,India
+ORD100341,11-07-2025,CUST7481,Clothing,,T-Shirt,5,43061.34,215306.7,UPI,Pending,1,Defective item,Rajasthan,India
+ORD100342,24-11-2025,CUST8982,Home & Kitchen,,Cookware Set,2,36671.13,73342.26,Debit Card,Delivered,4,Would buy again,Nagaland,India
+ORD100343,13-07-2025,CUST6026,Books,,Biography,2,33343.48,66686.96,Debit Card,Delivered,2,Quality could improve,Uttarakhand,India
+ORD100344,17-01-2025,CUST3983,Electronics,,Tablet,4,42567.7,170270.8,Debit Card,Returned,5,Loved it!,Andhra Pradesh,India
+ORD100345,02-05-2025,CUST6682,Books,,Fiction Novel,4,7204.04,28816.16,Debit Card,Delivered,1,Very bad product,Assam,India
+ORD100346,21-12-2025,CUST2110,Home & Kitchen,,Air Fryer,1,13407.58,13407.58,Debit Card,Pending,2,Not satisfied,Tripura,India
+ORD100347,27-03-2025,CUST7783,Electronics,,Smartphone,4,22023.36,88093.44,Cash on Delivery,Pending,4,Value for money,West Bengal,India
+ORD100348,30-11-2025,CUST4695,Books,,Children's Book,1,41474.59,41474.59,Credit Card,Pending,5,Excellent product!,Haryana,India
+ORD100349,07-02-2025,CUST6600,Electronics,,Headphones,1,16072.1,16072.1,Credit Card,Pending,1,Waste of money,Goa,India
+ORD100350,05-09-2025,CUST1507,Electronics,,Tablet,1,17029.94,17029.94,Cash on Delivery,Returned,5,Loved it!,Maharashtra,India
+ORD100351,16-04-2025,CUST4112,Books,,Children's Book,2,2867.08,5734.16,Cash on Delivery,Returned,3,Not bad,Meghalaya,India
+ORD100352,26-01-2025,CUST7437,Books,,Biography,3,15010.55,45031.65,Cash on Delivery,Delivered,1,Very bad product,Meghalaya,India
+ORD100353,03-09-2025,CUST4271,Home & Kitchen,,Mixer Grinder,4,4563.89,18255.56,UPI,Delivered,5,Loved it!,Gujarat,India
+ORD100354,07-06-2025,CUST7512,Clothing,,Sneakers,1,23783.82,23783.82,Cash on Delivery,Pending,1,Defective item,West Bengal,India
+ORD100355,09-07-2025,CUST4056,Electronics,,Tablet,4,9407.08,37628.32,Cash on Delivery,Delivered,4,Value for money,Madhya Pradesh,India
+ORD100356,16-10-2025,CUST2009,Beauty,,Shampoo,3,11466.87,34400.61,Credit Card,Returned,3,Average,Arunachal Pradesh,India
+ORD100357,27-04-2025,CUST1999,Electronics,,Headphones,5,20816.54,104082.7,Cash on Delivery,Returned,5,Worth every rupee!,Goa,India
+ORD100358,03-06-2025,CUST2293,Books,,Children's Book,5,44106.36,220531.8,Cash on Delivery,Returned,4,Good quality,Madhya Pradesh,India
+ORD100359,17-03-2025,CUST2970,Books,,Comics,5,40062.43,200312.15,Cash on Delivery,Delivered,5,Loved it!,Andhra Pradesh,India
+ORD100360,16-12-2025,CUST8133,Clothing,,Jeans,2,2325.26,4650.52,Credit Card,Returned,1,Waste of money,Madhya Pradesh,India
+ORD100361,14-02-2025,CUST7358,Books,,Biography,3,45558.06,136674.18,Cash on Delivery,Returned,1,Defective item,Himachal Pradesh,India
+ORD100362,25-12-2025,CUST9561,Home & Kitchen,,Water Purifier,4,45874.66,183498.64,Cash on Delivery,Delivered,1,Terrible experience,Uttar Pradesh,India
+ORD100363,24-02-2025,CUST2654,Clothing,,Jeans,5,29479.12,147395.6,Debit Card,Returned,1,Defective item,Uttar Pradesh,India
+ORD100364,08-11-2025,CUST8750,Beauty,,Lipstick,4,32808.43,131233.72,UPI,Delivered,5,Highly recommend!,Manipur,India
+ORD100365,20-01-2025,CUST7484,Beauty,,Perfume,5,30511.03,152555.15,Debit Card,Returned,4,Satisfied with the product,Jharkhand,India
+ORD100366,22-06-2025,CUST5965,Electronics,,Smartwatch,3,44872.16,134616.48,Debit Card,Pending,1,Terrible experience,Maharashtra,India
+ORD100367,14-06-2025,CUST5414,Electronics,,Laptop,2,15163.93,30327.86,Cash on Delivery,Returned,4,Good quality,Tamil Nadu,India
+ORD100368,06-09-2025,CUST9462,Clothing,,Jacket,2,45688.95,91377.9,Debit Card,Delivered,4,Would buy again,Telangana,India
+ORD100369,11-03-2025,CUST9589,Clothing,,T-Shirt,3,35536.56,106609.68,UPI,Delivered,4,Satisfied with the product,Uttar Pradesh,India
+ORD100370,04-07-2025,CUST4262,Clothing,,T-Shirt,2,1846.94,3693.88,Debit Card,Pending,1,Terrible experience,Nagaland,India
+ORD100371,10-07-2025,CUST9008,Books,,Children's Book,1,34122.48,34122.48,Cash on Delivery,Delivered,2,Product not as expected,Sikkim,India
+ORD100372,19-12-2025,CUST2480,Books,,Comics,3,17343.6,52030.8,Debit Card,Delivered,3,Fair deal,Tamil Nadu,India
+ORD100373,24-04-2025,CUST4688,Electronics,,Laptop,5,39035.54,195177.7,Credit Card,Pending,2,Product not as expected,Meghalaya,India
+ORD100374,28-11-2025,CUST3837,Books,,Fiction Novel,1,23810.04,23810.04,UPI,Delivered,2,Disappointed,Chhattisgarh,India
+ORD100375,28-06-2025,CUST8520,Books,,Biography,3,21305.58,63916.74,Debit Card,Delivered,4,Pretty decent,Gujarat,India
+ORD100376,04-01-2025,CUST9380,Home & Kitchen,,Water Purifier,5,19978.2,99891.0,Debit Card,Returned,1,Never buying again,Jharkhand,India
+ORD100377,02-02-2025,CUST6509,Books,,Biography,3,34283.77,102851.31,Debit Card,Returned,4,Value for money,Gujarat,India
+ORD100378,04-05-2025,CUST1930,Home & Kitchen,,Vacuum Cleaner,3,9580.33,28740.99,Cash on Delivery,Returned,5,Highly recommend!,Arunachal Pradesh,India
+ORD100379,03-08-2025,CUST7628,Clothing,,T-Shirt,4,49873.96,199495.84,Cash on Delivery,Returned,3,Average,Odisha,India
+ORD100380,18-12-2025,CUST9759,Books,,Comics,2,17289.72,34579.44,Cash on Delivery,Returned,2,Disappointed,Telangana,India
+ORD100381,03-04-2025,CUST5813,Books,,Biography,2,42063.81,84127.62,UPI,Pending,5,Loved it!,Nagaland,India
+ORD100382,02-12-2025,CUST2463,Home & Kitchen,,Water Purifier,2,47356.78,94713.56,Credit Card,Pending,3,Okay product,Arunachal Pradesh,India
+ORD100383,31-05-2025,CUST8598,Home & Kitchen,,Air Fryer,3,18709.79,56129.37,UPI,Pending,5,Excellent product!,Telangana,India
+ORD100384,14-09-2025,CUST2963,Books,,Comics,5,3746.54,18732.7,Cash on Delivery,Returned,2,Disappointed,Karnataka,India
+ORD100385,25-06-2025,CUST7704,Beauty,,Face Cream,2,7040.79,14081.58,Cash on Delivery,Delivered,2,Disappointed,Arunachal Pradesh,India
+ORD100386,10-06-2025,CUST1950,Clothing,,T-Shirt,4,16764.95,67059.8,UPI,Pending,2,Disappointed,Arunachal Pradesh,India
+ORD100387,15-02-2025,CUST3120,Clothing,,Jeans,5,38271.29,191356.45,Cash on Delivery,Returned,4,Pretty decent,Odisha,India
+ORD100388,01-10-2025,CUST4267,Beauty,,Shampoo,4,19289.16,77156.64,Debit Card,Delivered,1,Defective item,Meghalaya,India
+ORD100389,26-04-2025,CUST6641,Books,,Science Textbook,1,33902.06,33902.06,Debit Card,Delivered,2,Not satisfied,Mizoram,India
+ORD100390,24-01-2025,CUST5885,Beauty,,Hair Dryer,5,15444.53,77222.65,Debit Card,Pending,1,Never buying again,West Bengal,India
+ORD100391,25-06-2025,CUST9031,Books,,Comics,3,21796.53,65389.59,Debit Card,Delivered,2,Quality could improve,Mizoram,India
+ORD100392,19-04-2025,CUST1359,Beauty,,Face Cream,2,11371.2,22742.4,Credit Card,Delivered,2,Disappointed,Goa,India
+ORD100393,25-01-2025,CUST1785,Electronics,,Smartwatch,3,38608.23,115824.69,UPI,Returned,5,Excellent product!,Arunachal Pradesh,India
+ORD100394,08-10-2025,CUST5140,Electronics,,Smartphone,4,22326.85,89307.4,Cash on Delivery,Returned,1,Waste of money,Mizoram,India
+ORD100395,06-12-2025,CUST9524,Clothing,,T-Shirt,3,21159.4,63478.2,Debit Card,Returned,1,Never buying again,Assam,India
+ORD100396,02-03-2025,CUST5631,Clothing,,Jacket,1,25676.92,25676.92,UPI,Delivered,5,Worth every rupee!,West Bengal,India
+ORD100397,14-04-2025,CUST6864,Clothing,,Saree,2,38942.35,77884.7,Cash on Delivery,Pending,5,Loved it!,Goa,India
+ORD100398,19-06-2025,CUST4842,Electronics,,Tablet,4,45535.76,182143.04,UPI,Delivered,4,Good quality,Assam,India
+ORD100399,19-09-2025,CUST2229,Electronics,,Tablet,4,7627.4,30509.6,UPI,Pending,1,Waste of money,Punjab,India
+ORD100400,31-03-2025,CUST1646,Beauty,,Lipstick,3,23321.01,69963.03,Debit Card,Pending,1,Defective item,Assam,India
+ORD100401,05-01-2025,CUST3267,Beauty,,Face Cream,1,42592.05,42592.05,Credit Card,Pending,1,Defective item,Sikkim,India
+ORD100402,10-07-2025,CUST6615,Beauty,,Hair Dryer,3,43948.08,131844.24,Credit Card,Delivered,1,Terrible experience,West Bengal,India
+ORD100403,04-08-2025,CUST3732,Beauty,,Shampoo,3,41818.28,125454.84,UPI,Delivered,4,Good quality,Haryana,India
+ORD100404,19-10-2025,CUST8178,Clothing,,T-Shirt,4,45579.09,182316.36,Credit Card,Returned,4,Pretty decent,Madhya Pradesh,India
+ORD100405,05-09-2025,CUST8997,Home & Kitchen,,Water Purifier,1,43156.27,43156.27,UPI,Pending,2,Product not as expected,Bihar,India
+ORD100406,27-12-2025,CUST9598,Electronics,,Smartphone,3,32817.68,98453.04,Credit Card,Returned,1,Defective item,Odisha,India
+ORD100407,04-09-2025,CUST6664,Books,,Comics,5,4943.06,24715.3,Cash on Delivery,Delivered,2,Poor packaging,Haryana,India
+ORD100408,16-09-2025,CUST8688,Books,,Fiction Novel,1,32241.26,32241.26,Cash on Delivery,Delivered,2,Not satisfied,Odisha,India
+ORD100409,26-01-2025,CUST9305,Beauty,,Lipstick,2,16678.56,33357.12,Credit Card,Returned,3,Fair deal,Punjab,India
+ORD100410,18-08-2025,CUST2442,Beauty,,Perfume,1,23062.91,23062.91,Cash on Delivery,Pending,5,Highly recommend!,Arunachal Pradesh,India
+ORD100411,19-01-2025,CUST9996,Electronics,,Smartwatch,1,5311.64,5311.64,UPI,Delivered,4,Would buy again,Punjab,India
+ORD100412,24-06-2025,CUST6953,Books,,Biography,5,28204.16,141020.8,UPI,Delivered,4,Pretty decent,Assam,India
+ORD100413,20-08-2025,CUST2868,Home & Kitchen,,Water Purifier,5,30077.57,150387.85,UPI,Returned,3,Okay product,Maharashtra,India
+ORD100414,08-10-2025,CUST9552,Electronics,,Headphones,3,41528.22,124584.66,Debit Card,Returned,3,Average,Sikkim,India
+ORD100415,24-02-2025,CUST5166,Electronics,,Laptop,4,7194.37,28777.48,Credit Card,Delivered,4,Good quality,Odisha,India
+ORD100416,23-06-2025,CUST2765,Beauty,,Perfume,4,41262.8,165051.2,Cash on Delivery,Delivered,2,Poor packaging,Odisha,India
+ORD100417,10-03-2025,CUST9172,Electronics,,Smartwatch,4,32991.14,131964.56,UPI,Returned,5,Excellent product!,Mizoram,India
+ORD100418,01-04-2025,CUST3845,Books,,Children's Book,5,24250.01,121250.05,Credit Card,Delivered,5,Worth every rupee!,Karnataka,India
+ORD100419,03-08-2025,CUST5067,Books,,Comics,3,25304.68,75914.04,Debit Card,Pending,4,Value for money,Himachal Pradesh,India
+ORD100420,25-12-2025,CUST9393,Home & Kitchen,,Air Fryer,2,7081.36,14162.72,Debit Card,Returned,5,Fantastic quality!,Gujarat,India
+ORD100421,29-05-2025,CUST6657,Home & Kitchen,,Water Purifier,2,10204.28,20408.56,Credit Card,Returned,5,Loved it!,Sikkim,India
+ORD100422,15-10-2025,CUST8870,Books,,Comics,3,35575.57,106726.71,Cash on Delivery,Returned,3,Not bad,Tamil Nadu,India
+ORD100423,15-07-2025,CUST3381,Home & Kitchen,,Air Fryer,1,26231.95,26231.95,UPI,Returned,1,Very bad product,Karnataka,India
+ORD100424,16-03-2025,CUST2016,Clothing,,Sneakers,2,49179.91,98359.82,Debit Card,Delivered,3,Not bad,Haryana,India
+ORD100425,25-04-2025,CUST7371,Electronics,,Headphones,4,5303.5,21214.0,Credit Card,Returned,5,Highly recommend!,Himachal Pradesh,India
+ORD100426,10-10-2025,CUST1881,Electronics,,Smartwatch,4,20945.0,83780.0,UPI,Returned,3,Could be better,Madhya Pradesh,India
+ORD100427,29-10-2025,CUST9955,Clothing,,Saree,4,41533.18,166132.72,Credit Card,Returned,3,Okay product,Chhattisgarh,India
+ORD100428,06-04-2025,CUST3847,Home & Kitchen,,Air Fryer,2,49175.98,98351.96,UPI,Pending,1,Very bad product,Sikkim,India
+ORD100429,27-10-2025,CUST5178,Beauty,,Lipstick,5,13359.13,66795.65,UPI,Pending,2,Product not as expected,Rajasthan,India
+ORD100430,27-01-2025,CUST5934,Clothing,,T-Shirt,2,46445.69,92891.38,Cash on Delivery,Returned,5,Fantastic quality!,Jharkhand,India
+ORD100431,24-09-2025,CUST2117,Home & Kitchen,,Mixer Grinder,3,26364.67,79094.01,Credit Card,Pending,2,Poor packaging,Manipur,India
+ORD100432,06-12-2025,CUST6437,Books,,Children's Book,1,17600.27,17600.27,Debit Card,Pending,2,Disappointed,Karnataka,India
+ORD100433,29-11-2025,CUST1144,Clothing,,Saree,5,23847.89,119239.45,UPI,Returned,5,Highly recommend!,Tripura,India
+ORD100434,21-01-2025,CUST6258,Beauty,,Perfume,5,45946.64,229733.2,Cash on Delivery,Delivered,2,Product not as expected,Assam,India
+ORD100435,11-07-2025,CUST9426,Home & Kitchen,,Water Purifier,3,1430.35,4291.05,Cash on Delivery,Pending,5,Excellent product!,Andhra Pradesh,India
+ORD100436,27-03-2025,CUST9814,Home & Kitchen,,Cookware Set,3,25791.96,77375.88,UPI,Returned,1,Very bad product,Manipur,India
+ORD100437,03-10-2025,CUST8130,Clothing,,Jeans,4,41816.12,167264.48,UPI,Returned,2,Quality could improve,Punjab,India
+ORD100438,28-01-2025,CUST3916,Electronics,,Smartwatch,3,2086.74,6260.22,Debit Card,Returned,1,Very bad product,Odisha,India
+ORD100439,19-11-2025,CUST7626,Books,,Science Textbook,3,20500.11,61500.33,Cash on Delivery,Pending,4,Good quality,Bihar,India
+ORD100440,02-02-2025,CUST1745,Beauty,,Face Cream,5,493.77,2468.85,UPI,Pending,5,Fantastic quality!,Assam,India
+ORD100441,13-08-2025,CUST7249,Electronics,,Headphones,3,30406.98,91220.94,Cash on Delivery,Returned,3,Average,Nagaland,India
+ORD100442,07-10-2025,CUST5832,Beauty,,Perfume,5,11149.31,55746.55,Credit Card,Pending,4,Value for money,Gujarat,India
+ORD100443,03-01-2025,CUST7456,Electronics,,Tablet,5,7240.42,36202.1,UPI,Pending,1,Waste of money,Mizoram,India
+ORD100444,14-03-2025,CUST3637,Home & Kitchen,,Cookware Set,4,45300.28,181201.12,Credit Card,Delivered,5,Fantastic quality!,Himachal Pradesh,India
+ORD100445,28-01-2025,CUST9992,Home & Kitchen,,Cookware Set,1,9231.63,9231.63,Cash on Delivery,Returned,5,Fantastic quality!,Chhattisgarh,India
+ORD100446,25-10-2025,CUST8982,Electronics,,Headphones,1,12684.24,12684.24,Debit Card,Pending,2,Quality could improve,Kerala,India
+ORD100447,12-06-2025,CUST8960,Clothing,,T-Shirt,3,31051.89,93155.67,Cash on Delivery,Pending,2,Poor packaging,Assam,India
+ORD100448,11-06-2025,CUST8017,Home & Kitchen,,Water Purifier,2,28364.49,56728.98,Credit Card,Delivered,3,Could be better,Haryana,India
+ORD100449,10-03-2025,CUST6432,Clothing,,Jeans,4,13978.66,55914.64,Cash on Delivery,Pending,3,Fair deal,Kerala,India
+ORD100450,27-11-2025,CUST2343,Home & Kitchen,,Vacuum Cleaner,4,27673.26,110693.04,Debit Card,Delivered,2,Poor packaging,Jharkhand,India
+ORD100451,17-09-2025,CUST1511,Clothing,,Sneakers,1,36425.78,36425.78,Cash on Delivery,Returned,1,Waste of money,Goa,India
+ORD100452,30-08-2025,CUST3435,Electronics,,Tablet,3,27264.77,81794.31,Debit Card,Pending,5,Loved it!,Manipur,India
+ORD100453,16-02-2025,CUST7500,Books,,Biography,2,23342.12,46684.24,Debit Card,Returned,5,Excellent product!,Uttarakhand,India
+ORD100454,17-08-2025,CUST3608,Clothing,,Saree,2,37908.86,75817.72,Credit Card,Returned,2,Poor packaging,Nagaland,India
+ORD100455,29-04-2025,CUST2029,Clothing,,Jacket,3,2212.91,6638.73,Debit Card,Pending,4,Satisfied with the product,Tamil Nadu,India
+ORD100456,18-07-2025,CUST8695,Electronics,,Laptop,5,45404.76,227023.8,Cash on Delivery,Delivered,3,Average,Jharkhand,India
+ORD100457,15-05-2025,CUST9918,Home & Kitchen,,Mixer Grinder,5,31751.64,158758.2,Credit Card,Pending,3,Fair deal,Punjab,India
+ORD100458,25-04-2025,CUST9460,Home & Kitchen,,Water Purifier,1,25929.81,25929.81,Cash on Delivery,Pending,4,Value for money,Uttar Pradesh,India
+ORD100459,14-08-2025,CUST3713,Beauty,,Shampoo,5,528.56,2642.8,Credit Card,Delivered,2,Poor packaging,Rajasthan,India
+ORD100460,05-11-2025,CUST2938,Home & Kitchen,,Cookware Set,2,9507.9,19015.8,Credit Card,Pending,3,Could be better,Mizoram,India
+ORD100461,24-03-2025,CUST7732,Electronics,,Smartwatch,4,24055.25,96221.0,UPI,Delivered,5,Excellent product!,Andhra Pradesh,India
+ORD100462,21-01-2025,CUST3406,Clothing,,Saree,5,8224.23,41121.15,UPI,Delivered,5,Highly recommend!,Sikkim,India
+ORD100463,23-11-2025,CUST1305,Clothing,,Saree,4,30048.0,120192.0,Debit Card,Delivered,5,Loved it!,Uttarakhand,India
+ORD100464,23-04-2025,CUST7730,Beauty,,Hair Dryer,4,43391.66,173566.64,Credit Card,Returned,2,Quality could improve,Nagaland,India
+ORD100465,21-08-2025,CUST2127,Books,,Comics,3,8552.54,25657.62,Credit Card,Pending,3,Fair deal,Jharkhand,India
+ORD100466,17-12-2025,CUST7877,Clothing,,T-Shirt,1,10276.96,10276.96,Credit Card,Returned,5,Excellent product!,Sikkim,India
+ORD100467,15-09-2025,CUST2925,Clothing,,Jacket,5,30070.73,150353.65,UPI,Pending,5,Loved it!,Bihar,India
+ORD100468,25-09-2025,CUST7892,Books,,Comics,1,44869.05,44869.05,Debit Card,Delivered,4,Would buy again,Chhattisgarh,India
+ORD100469,29-06-2025,CUST2600,Beauty,,Perfume,4,39519.87,158079.48,Cash on Delivery,Delivered,4,Value for money,Himachal Pradesh,India
+ORD100470,29-07-2025,CUST5223,Beauty,,Perfume,1,14306.68,14306.68,Credit Card,Delivered,5,Excellent product!,Bihar,India
+ORD100471,02-12-2025,CUST4365,Books,,Comics,1,26084.14,26084.14,Debit Card,Pending,4,Value for money,Bihar,India
+ORD100472,14-05-2025,CUST9783,Electronics,,Laptop,4,32648.48,130593.92,Cash on Delivery,Returned,3,Could be better,Telangana,India
+ORD100473,10-10-2025,CUST8904,Books,,Biography,4,37797.6,151190.4,Credit Card,Pending,4,Would buy again,Nagaland,India
+ORD100474,26-06-2025,CUST7522,Books,,Children's Book,3,49427.71,148283.13,Credit Card,Returned,5,Excellent product!,Chhattisgarh,India
+ORD100475,25-07-2025,CUST6544,Clothing,,Jacket,2,5193.88,10387.76,UPI,Delivered,5,Worth every rupee!,Himachal Pradesh,India
+ORD100476,11-08-2025,CUST2444,Electronics,,Smartphone,2,23689.1,47378.2,UPI,Pending,5,Loved it!,Jharkhand,India
+ORD100477,25-07-2025,CUST9536,Home & Kitchen,,Mixer Grinder,5,2080.22,10401.1,Debit Card,Returned,4,Would buy again,Punjab,India
+ORD100478,03-12-2025,CUST9489,Electronics,,Laptop,4,22060.81,88243.24,Debit Card,Delivered,2,Not satisfied,Gujarat,India
+ORD100479,28-03-2025,CUST1590,Books,,Comics,5,34982.8,174914.0,Debit Card,Delivered,5,Excellent product!,Tamil Nadu,India
+ORD100480,09-12-2025,CUST7474,Clothing,,T-Shirt,3,39027.71,117083.13,Cash on Delivery,Returned,3,Okay product,Karnataka,India
+ORD100481,26-05-2025,CUST6703,Books,,Fiction Novel,1,45975.04,45975.04,Debit Card,Pending,5,Loved it!,Gujarat,India
+ORD100482,03-01-2025,CUST5277,Books,,Science Textbook,4,46499.75,185999.0,Credit Card,Pending,5,Fantastic quality!,Sikkim,India
+ORD100483,01-03-2025,CUST9409,Electronics,,Tablet,1,25257.82,25257.82,Debit Card,Returned,3,Not bad,Rajasthan,India
+ORD100484,23-06-2025,CUST8517,Home & Kitchen,,Air Fryer,4,28245.8,112983.2,Cash on Delivery,Returned,2,Not satisfied,West Bengal,India
+ORD100485,13-12-2025,CUST4767,Beauty,,Face Cream,3,3564.2,10692.6,Debit Card,Pending,2,Disappointed,Himachal Pradesh,India
+ORD100486,08-05-2025,CUST5706,Books,,Comics,1,35100.76,35100.76,UPI,Pending,3,Could be better,Mizoram,India
+ORD100487,22-04-2025,CUST5408,Electronics,,Tablet,2,23932.46,47864.92,Credit Card,Returned,3,Okay product,Meghalaya,India
+ORD100488,16-04-2025,CUST4755,Beauty,,Perfume,2,36824.37,73648.74,Credit Card,Delivered,3,Not bad,Himachal Pradesh,India
+ORD100489,13-12-2025,CUST9071,Home & Kitchen,,Cookware Set,1,6169.95,6169.95,UPI,Returned,1,Very bad product,West Bengal,India
+ORD100490,21-05-2025,CUST9041,Beauty,,Lipstick,5,15907.76,79538.8,Credit Card,Returned,5,Highly recommend!,Arunachal Pradesh,India
+ORD100491,05-08-2025,CUST8836,Beauty,,Perfume,5,6586.65,32933.25,UPI,Returned,5,Highly recommend!,Assam,India
+ORD100492,24-08-2025,CUST6171,Beauty,,Perfume,4,48830.06,195320.24,UPI,Delivered,5,Loved it!,Rajasthan,India
+ORD100493,13-05-2025,CUST4066,Beauty,,Hair Dryer,1,16406.72,16406.72,Debit Card,Delivered,5,Highly recommend!,Maharashtra,India
+ORD100494,06-08-2025,CUST4449,Beauty,,Hair Dryer,3,18423.02,55269.06,Cash on Delivery,Returned,4,Value for money,Uttarakhand,India
+ORD100495,09-03-2025,CUST4744,Home & Kitchen,,Air Fryer,3,22646.3,67938.9,UPI,Returned,5,Highly recommend!,Himachal Pradesh,India
+ORD100496,16-03-2025,CUST3450,Clothing,,Saree,4,42844.18,171376.72,Cash on Delivery,Delivered,2,Quality could improve,Arunachal Pradesh,India
+ORD100497,01-10-2025,CUST6172,Beauty,,Shampoo,2,49778.98,99557.96,Cash on Delivery,Pending,5,Highly recommend!,Andhra Pradesh,India
+ORD100498,31-01-2025,CUST4530,Books,,Comics,1,20040.41,20040.41,Debit Card,Pending,2,Not satisfied,Karnataka,India
+ORD100499,13-10-2025,CUST5222,Beauty,,Lipstick,3,18175.91,54527.73,Debit Card,Delivered,5,Worth every rupee!,Tripura,India
+ORD100500,29-11-2025,CUST9821,Electronics,,Headphones,5,10108.11,50540.55,Credit Card,Pending,5,Highly recommend!,Chhattisgarh,India
+ORD100501,10-02-2025,CUST7243,Home & Kitchen,,Water Purifier,4,38782.27,155129.08,Debit Card,Pending,4,Satisfied with the product,Rajasthan,India
+ORD100502,27-07-2025,CUST2168,Clothing,,Sneakers,4,31637.42,126549.68,UPI,Delivered,5,Highly recommend!,Himachal Pradesh,India
+ORD100503,06-11-2025,CUST7479,Clothing,,Sneakers,3,32720.05,98160.15,Debit Card,Pending,3,Could be better,Goa,India
+ORD100504,12-01-2025,CUST3048,Books,,Comics,4,20816.66,83266.64,Credit Card,Returned,2,Disappointed,Telangana,India
+ORD100505,02-02-2025,CUST8752,Electronics,,Laptop,2,19972.87,39945.74,UPI,Delivered,1,Terrible experience,Manipur,India
+ORD100506,13-02-2025,CUST7387,Books,,Fiction Novel,1,13270.12,13270.12,Debit Card,Delivered,2,Quality could improve,Nagaland,India
+ORD100507,15-01-2025,CUST1575,Home & Kitchen,,Air Fryer,2,6737.6,13475.2,Debit Card,Pending,2,Product not as expected,Tamil Nadu,India
+ORD100508,24-12-2025,CUST9835,Beauty,,Hair Dryer,3,27517.55,82552.65,Credit Card,Returned,2,Poor packaging,Maharashtra,India
+ORD100509,08-06-2025,CUST6688,Beauty,,Hair Dryer,4,26268.3,105073.2,Cash on Delivery,Returned,5,Loved it!,Nagaland,India
+ORD100510,21-03-2025,CUST5973,Electronics,,Smartwatch,3,18416.01,55248.03,UPI,Delivered,3,Not bad,Andhra Pradesh,India
+ORD100511,19-12-2025,CUST9059,Clothing,,Sneakers,3,23566.06,70698.18,Cash on Delivery,Pending,1,Very bad product,Bihar,India
+ORD100512,08-10-2025,CUST7121,Beauty,,Lipstick,5,11714.53,58572.65,Credit Card,Pending,1,Never buying again,Assam,India
+ORD100513,13-07-2025,CUST4614,Beauty,,Shampoo,2,8330.82,16661.64,Debit Card,Delivered,4,Pretty decent,Tamil Nadu,India
+ORD100514,26-05-2025,CUST9715,Clothing,,Saree,5,40417.23,202086.15,Debit Card,Pending,3,Okay product,Chhattisgarh,India
+ORD100515,13-11-2025,CUST8418,Electronics,,Laptop,2,14621.85,29243.7,Debit Card,Returned,4,Would buy again,Nagaland,India
+ORD100516,01-10-2025,CUST1362,Beauty,,Perfume,3,1165.89,3497.67,Credit Card,Delivered,1,Defective item,Arunachal Pradesh,India
+ORD100517,16-02-2025,CUST3468,Home & Kitchen,,Cookware Set,4,36409.93,145639.72,UPI,Pending,2,Quality could improve,Uttarakhand,India
+ORD100518,10-07-2025,CUST8597,Home & Kitchen,,Air Fryer,3,39329.12,117987.36,UPI,Pending,4,Good quality,Kerala,India
+ORD100519,06-10-2025,CUST8702,Clothing,,T-Shirt,3,38827.51,116482.53,Credit Card,Delivered,1,Defective item,Odisha,India
+ORD100520,17-07-2025,CUST8257,Beauty,,Face Cream,1,48735.01,48735.01,Credit Card,Returned,2,Not satisfied,Nagaland,India
+ORD100521,31-08-2025,CUST7375,Clothing,,Jacket,1,26152.73,26152.73,Debit Card,Pending,2,Quality could improve,Chhattisgarh,India
+ORD100522,23-11-2025,CUST5895,Electronics,,Tablet,5,6282.65,31413.25,Credit Card,Pending,4,Good quality,Maharashtra,India
+ORD100523,08-01-2025,CUST3742,Clothing,,T-Shirt,2,31718.87,63437.74,Debit Card,Returned,3,Average,Chhattisgarh,India
+ORD100524,20-12-2025,CUST8786,Beauty,,Perfume,1,48447.98,48447.98,Credit Card,Pending,5,Excellent product!,Arunachal Pradesh,India
+ORD100525,23-06-2025,CUST1983,Clothing,,Jeans,4,4751.8,19007.2,UPI,Pending,5,Loved it!,Jharkhand,India
+ORD100526,13-10-2025,CUST6690,Books,,Fiction Novel,2,24494.58,48989.16,Cash on Delivery,Returned,3,Okay product,Kerala,India
+ORD100527,21-01-2025,CUST8951,Electronics,,Smartwatch,3,36275.08,108825.24,Cash on Delivery,Returned,3,Could be better,Uttar Pradesh,India
+ORD100528,28-06-2025,CUST6303,Books,,Children's Book,2,28421.75,56843.5,Cash on Delivery,Pending,5,Fantastic quality!,West Bengal,India
+ORD100529,01-06-2025,CUST5314,Books,,Science Textbook,1,26650.64,26650.64,Debit Card,Pending,4,Good quality,Arunachal Pradesh,India
+ORD100530,06-07-2025,CUST4912,Books,,Children's Book,2,44170.03,88340.06,Debit Card,Returned,5,Excellent product!,Kerala,India
+ORD100531,10-10-2025,CUST3525,Books,,Children's Book,2,26298.67,52597.34,Debit Card,Pending,4,Pretty decent,Gujarat,India
+ORD100532,23-01-2025,CUST3126,Home & Kitchen,,Mixer Grinder,1,26255.39,26255.39,Credit Card,Delivered,1,Waste of money,Sikkim,India
+ORD100533,25-11-2025,CUST7366,Electronics,,Smartwatch,2,5117.93,10235.86,Cash on Delivery,Returned,5,Fantastic quality!,Haryana,India
+ORD100534,06-02-2025,CUST1214,Books,,Biography,1,18444.43,18444.43,Credit Card,Returned,5,Worth every rupee!,Sikkim,India
+ORD100535,08-07-2025,CUST1955,Electronics,,Smartwatch,1,18174.12,18174.12,Debit Card,Returned,4,Good quality,Bihar,India
+ORD100536,19-02-2025,CUST2658,Electronics,,Headphones,1,47241.25,47241.25,Credit Card,Returned,5,Worth every rupee!,Kerala,India
+ORD100537,17-11-2025,CUST3931,Clothing,,Jeans,5,32912.45,164562.25,Cash on Delivery,Returned,5,Excellent product!,Tripura,India
+ORD100538,23-02-2025,CUST3733,Books,,Biography,4,35187.01,140748.04,Credit Card,Returned,4,Pretty decent,Nagaland,India
+ORD100539,15-08-2025,CUST6772,Books,,Biography,2,26788.24,53576.48,Debit Card,Returned,5,Highly recommend!,West Bengal,India
+ORD100540,08-11-2025,CUST4943,Home & Kitchen,,Air Fryer,4,41342.52,165370.08,Credit Card,Pending,3,Not bad,Maharashtra,India
+ORD100541,01-01-2025,CUST1567,Home & Kitchen,,Vacuum Cleaner,4,22485.49,89941.96,Debit Card,Returned,4,Good quality,Punjab,India
+ORD100542,20-04-2025,CUST6159,Books,,Science Textbook,3,527.13,1581.39,UPI,Returned,2,Disappointed,Telangana,India
+ORD100543,21-03-2025,CUST2544,Books,,Comics,5,28619.28,143096.4,UPI,Pending,5,Highly recommend!,Chhattisgarh,India
+ORD100544,08-05-2025,CUST4817,Clothing,,Jeans,3,18480.73,55442.19,Debit Card,Pending,5,Excellent product!,Haryana,India
+ORD100545,16-06-2025,CUST8905,Books,,Children's Book,5,45910.51,229552.55,Credit Card,Pending,1,Never buying again,West Bengal,India
+ORD100546,15-07-2025,CUST2285,Electronics,,Tablet,3,2061.11,6183.33,UPI,Pending,5,Highly recommend!,Goa,India
+ORD100547,01-12-2025,CUST1187,Beauty,,Shampoo,1,43515.37,43515.37,Cash on Delivery,Delivered,2,Disappointed,Uttar Pradesh,India
+ORD100548,17-06-2025,CUST9231,Books,,Fiction Novel,3,27088.5,81265.5,Credit Card,Delivered,2,Not satisfied,Uttar Pradesh,India
+ORD100549,24-04-2025,CUST8076,Beauty,,Shampoo,5,28847.69,144238.45,Debit Card,Pending,1,Waste of money,Goa,India
+ORD100550,08-10-2025,CUST7540,Clothing,,Sneakers,1,23897.56,23897.56,Debit Card,Delivered,1,Terrible experience,Maharashtra,India
+ORD100551,14-10-2025,CUST4245,Books,,Children's Book,2,38149.24,76298.48,Cash on Delivery,Pending,4,Would buy again,Andhra Pradesh,India
+ORD100552,07-05-2025,CUST4970,Clothing,,Saree,5,49854.52,249272.6,UPI,Pending,5,Worth every rupee!,Goa,India
+ORD100553,05-08-2025,CUST6984,Home & Kitchen,,Water Purifier,1,5803.99,5803.99,Debit Card,Delivered,4,Value for money,Telangana,India
+ORD100554,29-06-2025,CUST8245,Home & Kitchen,,Water Purifier,1,38530.13,38530.13,Credit Card,Pending,2,Not satisfied,Karnataka,India
+ORD100555,27-02-2025,CUST1893,Clothing,,Jeans,3,7968.36,23905.08,Credit Card,Returned,1,Waste of money,Uttar Pradesh,India
+ORD100556,06-06-2025,CUST8373,Home & Kitchen,,Mixer Grinder,3,34751.0,104253.0,Cash on Delivery,Delivered,1,Defective item,Maharashtra,India
+ORD100557,13-05-2025,CUST9991,Clothing,,Saree,2,10349.31,20698.62,Cash on Delivery,Returned,5,Loved it!,Uttar Pradesh,India
+ORD100558,23-01-2025,CUST5185,Electronics,,Smartwatch,5,45320.81,226604.05,Credit Card,Delivered,5,Highly recommend!,Sikkim,India
+ORD100559,04-02-2025,CUST7367,Clothing,,Saree,3,2843.65,8530.95,Debit Card,Returned,1,Defective item,West Bengal,India
+ORD100560,29-04-2025,CUST7237,Electronics,,Smartphone,3,43397.04,130191.12,UPI,Pending,4,Pretty decent,Telangana,India
+ORD100561,23-08-2025,CUST1352,Books,,Comics,1,9483.59,9483.59,UPI,Delivered,5,Fantastic quality!,Uttar Pradesh,India
+ORD100562,10-01-2025,CUST6681,Home & Kitchen,,Vacuum Cleaner,4,19791.31,79165.24,Debit Card,Pending,2,Disappointed,Haryana,India
+ORD100563,18-07-2025,CUST1482,Clothing,,Saree,3,40632.26,121896.78,Debit Card,Delivered,3,Okay product,Himachal Pradesh,India
+ORD100564,24-09-2025,CUST4726,Home & Kitchen,,Air Fryer,2,4572.19,9144.38,Cash on Delivery,Delivered,4,Would buy again,Goa,India
+ORD100565,18-08-2025,CUST9883,Clothing,,Jacket,3,45504.82,136514.46,Credit Card,Delivered,3,Okay product,Uttar Pradesh,India
+ORD100566,19-12-2025,CUST9582,Books,,Comics,2,43156.87,86313.74,Credit Card,Pending,3,Okay product,Tamil Nadu,India
+ORD100567,02-03-2025,CUST4016,Books,,Science Textbook,3,3577.14,10731.42,Debit Card,Delivered,5,Excellent product!,Bihar,India
+ORD100568,19-03-2025,CUST4079,Home & Kitchen,,Air Fryer,4,15306.74,61226.96,UPI,Delivered,3,Okay product,Madhya Pradesh,India
+ORD100569,10-11-2025,CUST4783,Electronics,,Tablet,5,13489.76,67448.8,Credit Card,Delivered,5,Excellent product!,West Bengal,India
+ORD100570,29-08-2025,CUST7126,Home & Kitchen,,Mixer Grinder,4,6877.51,27510.04,Credit Card,Pending,5,Worth every rupee!,Arunachal Pradesh,India
+ORD100571,29-07-2025,CUST1245,Beauty,,Perfume,2,9824.34,19648.68,Debit Card,Pending,1,Waste of money,West Bengal,India
+ORD100572,12-11-2025,CUST9027,Clothing,,Jeans,1,9018.49,9018.49,Debit Card,Pending,4,Satisfied with the product,Meghalaya,India
+ORD100573,10-06-2025,CUST7457,Beauty,,Shampoo,1,30474.91,30474.91,UPI,Returned,4,Good quality,Haryana,India
+ORD100574,23-09-2025,CUST9812,Beauty,,Shampoo,1,43913.44,43913.44,Cash on Delivery,Returned,2,Not satisfied,Gujarat,India
+ORD100575,08-04-2025,CUST5770,Books,,Children's Book,5,38304.96,191524.8,Cash on Delivery,Pending,1,Defective item,Uttarakhand,India
+ORD100576,28-01-2025,CUST9470,Home & Kitchen,,Air Fryer,2,21238.62,42477.24,Credit Card,Pending,5,Worth every rupee!,Manipur,India
+ORD100577,23-12-2025,CUST9952,Electronics,,Tablet,1,9152.62,9152.62,Credit Card,Pending,5,Worth every rupee!,Kerala,India
+ORD100578,31-12-2025,CUST4308,Home & Kitchen,,Air Fryer,1,9108.15,9108.15,Cash on Delivery,Delivered,5,Highly recommend!,Jharkhand,India
+ORD100579,21-11-2025,CUST6946,Home & Kitchen,,Cookware Set,1,4741.32,4741.32,UPI,Returned,4,Pretty decent,Uttarakhand,India
+ORD100580,23-01-2025,CUST3799,Books,,Comics,2,19058.2,38116.4,Debit Card,Returned,4,Satisfied with the product,Uttar Pradesh,India
+ORD100581,03-08-2025,CUST6047,Clothing,,Jeans,2,38504.01,77008.02,Debit Card,Returned,1,Terrible experience,West Bengal,India
+ORD100582,02-01-2025,CUST5146,Home & Kitchen,,Cookware Set,1,44947.39,44947.39,UPI,Pending,2,Product not as expected,Haryana,India
+ORD100583,02-05-2025,CUST4553,Beauty,,Hair Dryer,1,30477.6,30477.6,Cash on Delivery,Pending,4,Pretty decent,Haryana,India
+ORD100584,08-10-2025,CUST5556,Beauty,,Face Cream,5,30085.08,150425.4,Credit Card,Delivered,2,Quality could improve,Andhra Pradesh,India
+ORD100585,08-12-2025,CUST5889,Clothing,,T-Shirt,3,2028.71,6086.13,Debit Card,Delivered,1,Very bad product,Sikkim,India
+ORD100586,09-11-2025,CUST3906,Electronics,,Smartwatch,2,8234.49,16468.98,Cash on Delivery,Returned,3,Not bad,Gujarat,India
+ORD100587,08-07-2025,CUST7208,Home & Kitchen,,Mixer Grinder,1,38471.9,38471.9,UPI,Pending,3,Not bad,Madhya Pradesh,India
+ORD100588,18-06-2025,CUST9635,Electronics,,Headphones,4,6900.38,27601.52,Cash on Delivery,Returned,3,Okay product,Karnataka,India
+ORD100589,14-02-2025,CUST8924,Clothing,,Saree,1,5643.25,5643.25,Debit Card,Pending,5,Fantastic quality!,Himachal Pradesh,India
+ORD100590,01-07-2025,CUST3125,Home & Kitchen,,Vacuum Cleaner,5,28842.11,144210.55,Cash on Delivery,Returned,5,Worth every rupee!,West Bengal,India
+ORD100591,10-04-2025,CUST1025,Beauty,,Perfume,5,11789.54,58947.7,UPI,Delivered,3,Fair deal,Assam,India
+ORD100592,24-01-2025,CUST6468,Electronics,,Laptop,5,49949.55,249747.75,Debit Card,Returned,4,Satisfied with the product,Tripura,India
+ORD100593,07-06-2025,CUST5919,Electronics,,Laptop,3,12869.99,38609.97,Debit Card,Delivered,1,Very bad product,Himachal Pradesh,India
+ORD100594,15-01-2025,CUST3877,Home & Kitchen,,Vacuum Cleaner,4,36274.95,145099.8,Credit Card,Pending,5,Highly recommend!,Kerala,India
+ORD100595,21-03-2025,CUST8546,Beauty,,Shampoo,1,32353.48,32353.48,Debit Card,Pending,4,Pretty decent,Rajasthan,India
+ORD100596,12-10-2025,CUST9779,Electronics,,Tablet,3,28334.14,85002.42,UPI,Delivered,3,Not bad,Mizoram,India
+ORD100597,16-01-2025,CUST6556,Home & Kitchen,,Vacuum Cleaner,1,48486.74,48486.74,Cash on Delivery,Returned,3,Not bad,Madhya Pradesh,India
+ORD100598,01-03-2025,CUST6050,Clothing,,Saree,5,19600.4,98002.0,Debit Card,Returned,5,Excellent product!,Sikkim,India
+ORD100599,10-07-2025,CUST8404,Home & Kitchen,,Air Fryer,1,24953.31,24953.31,Debit Card,Delivered,2,Poor packaging,Uttarakhand,India
+ORD100600,14-04-2025,CUST2517,Home & Kitchen,,Cookware Set,1,18835.94,18835.94,Cash on Delivery,Returned,1,Very bad product,Nagaland,India
+ORD100601,26-09-2025,CUST6084,Beauty,,Hair Dryer,2,9672.54,19345.08,Debit Card,Delivered,4,Good quality,Karnataka,India
+ORD100602,18-07-2025,CUST9558,Books,,Science Textbook,2,36283.62,72567.24,UPI,Delivered,4,Value for money,Andhra Pradesh,India
+ORD100603,22-02-2025,CUST9529,Electronics,,Tablet,1,16797.83,16797.83,Debit Card,Delivered,1,Never buying again,Bihar,India
+ORD100604,22-05-2025,CUST9720,Home & Kitchen,,Cookware Set,3,10187.66,30562.98,Debit Card,Pending,3,Average,Himachal Pradesh,India
+ORD100605,15-11-2025,CUST9422,Home & Kitchen,,Cookware Set,2,13827.12,27654.24,UPI,Delivered,1,Never buying again,Goa,India
+ORD100606,21-10-2025,CUST5011,Home & Kitchen,,Water Purifier,3,13698.39,41095.17,Credit Card,Delivered,3,Could be better,Odisha,India
+ORD100607,15-01-2025,CUST8712,Books,,Biography,5,22293.65,111468.25,UPI,Delivered,2,Product not as expected,Himachal Pradesh,India
+ORD100608,31-10-2025,CUST8304,Electronics,,Smartphone,4,19717.45,78869.8,Debit Card,Pending,5,Highly recommend!,Arunachal Pradesh,India
+ORD100609,18-10-2025,CUST3159,Clothing,,Saree,1,48689.36,48689.36,UPI,Returned,4,Pretty decent,Bihar,India
+ORD100610,29-08-2025,CUST4796,Electronics,,Smartwatch,3,34287.0,102861.0,Credit Card,Delivered,4,Would buy again,Punjab,India
+ORD100611,16-06-2025,CUST8426,Home & Kitchen,,Vacuum Cleaner,4,9330.98,37323.92,Cash on Delivery,Delivered,3,Average,Maharashtra,India
+ORD100612,25-05-2025,CUST6711,Beauty,,Face Cream,3,24036.87,72110.61,Credit Card,Returned,2,Not satisfied,Kerala,India
+ORD100613,04-06-2025,CUST9728,Beauty,,Face Cream,3,27896.26,83688.78,Cash on Delivery,Pending,1,Never buying again,Telangana,India
+ORD100614,04-09-2025,CUST7288,Beauty,,Perfume,5,12335.81,61679.05,UPI,Pending,2,Quality could improve,Uttar Pradesh,India
+ORD100615,06-10-2025,CUST4869,Books,,Children's Book,4,28447.12,113788.48,Credit Card,Returned,3,Average,Karnataka,India
+ORD100616,16-06-2025,CUST2599,Books,,Children's Book,1,29689.72,29689.72,Cash on Delivery,Delivered,4,Value for money,Maharashtra,India
+ORD100617,14-07-2025,CUST6364,Beauty,,Face Cream,5,5615.48,28077.4,Cash on Delivery,Returned,5,Excellent product!,Punjab,India
+ORD100618,17-03-2025,CUST3444,Electronics,,Laptop,2,44385.62,88771.24,Cash on Delivery,Returned,1,Defective item,Mizoram,India
+ORD100619,15-12-2025,CUST6187,Beauty,,Hair Dryer,5,22468.56,112342.8,Debit Card,Returned,2,Disappointed,Bihar,India
+ORD100620,19-09-2025,CUST7622,Beauty,,Lipstick,1,29219.8,29219.8,Credit Card,Pending,5,Excellent product!,Madhya Pradesh,India
+ORD100621,03-07-2025,CUST2797,Home & Kitchen,,Water Purifier,1,242.0,242.0,Debit Card,Delivered,5,Loved it!,Odisha,India
+ORD100622,27-07-2025,CUST7251,Beauty,,Hair Dryer,4,31335.67,125342.68,Cash on Delivery,Returned,4,Satisfied with the product,Gujarat,India
+ORD100623,04-07-2025,CUST7835,Clothing,,Jacket,2,9573.7,19147.4,Credit Card,Pending,4,Satisfied with the product,Himachal Pradesh,India
+ORD100624,07-09-2025,CUST8155,Clothing,,T-Shirt,1,32489.78,32489.78,Credit Card,Delivered,2,Quality could improve,Arunachal Pradesh,India
+ORD100625,03-04-2025,CUST8444,Beauty,,Shampoo,5,46529.49,232647.45,Cash on Delivery,Returned,5,Worth every rupee!,Tamil Nadu,India
+ORD100626,04-01-2025,CUST9161,Beauty,,Lipstick,2,9452.39,18904.78,Credit Card,Returned,5,Fantastic quality!,Maharashtra,India
+ORD100627,20-01-2025,CUST8917,Home & Kitchen,,Air Fryer,5,28902.35,144511.75,Debit Card,Delivered,1,Never buying again,Andhra Pradesh,India
+ORD100628,24-05-2025,CUST8617,Beauty,,Face Cream,2,36563.24,73126.48,UPI,Returned,5,Fantastic quality!,Mizoram,India
+ORD100629,17-12-2025,CUST9834,Electronics,,Laptop,4,31607.01,126428.04,Debit Card,Returned,1,Very bad product,Uttar Pradesh,India
+ORD100630,29-08-2025,CUST6431,Home & Kitchen,,Water Purifier,1,23549.67,23549.67,Cash on Delivery,Pending,5,Highly recommend!,Nagaland,India
+ORD100631,05-06-2025,CUST5267,Home & Kitchen,,Cookware Set,1,34813.55,34813.55,UPI,Returned,5,Worth every rupee!,Sikkim,India
+ORD100632,16-11-2025,CUST1447,Books,,Science Textbook,5,2770.67,13853.35,Debit Card,Pending,3,Average,Telangana,India
+ORD100633,10-05-2025,CUST3171,Clothing,,Saree,1,42601.97,42601.97,Debit Card,Pending,3,Could be better,Telangana,India
+ORD100634,19-03-2025,CUST8317,Electronics,,Smartphone,5,8895.77,44478.85,Debit Card,Delivered,5,Highly recommend!,Telangana,India
+ORD100635,25-06-2025,CUST2382,Clothing,,Jacket,2,40008.73,80017.46,Credit Card,Returned,1,Waste of money,Sikkim,India
+ORD100636,23-11-2025,CUST3740,Beauty,,Shampoo,4,12049.78,48199.12,Credit Card,Returned,4,Value for money,Gujarat,India
+ORD100637,24-07-2025,CUST8802,Electronics,,Headphones,1,2815.66,2815.66,Debit Card,Pending,4,Would buy again,Kerala,India
+ORD100638,29-09-2025,CUST8122,Clothing,,Jacket,4,23834.56,95338.24,UPI,Pending,2,Product not as expected,Maharashtra,India
+ORD100639,19-02-2025,CUST9704,Beauty,,Lipstick,5,34207.24,171036.2,Debit Card,Pending,1,Never buying again,Assam,India
+ORD100640,11-05-2025,CUST7408,Home & Kitchen,,Vacuum Cleaner,3,13500.97,40502.91,Cash on Delivery,Returned,1,Waste of money,Sikkim,India
+ORD100641,10-06-2025,CUST9972,Books,,Science Textbook,5,17002.85,85014.25,UPI,Returned,2,Not satisfied,Karnataka,India
+ORD100642,17-12-2025,CUST8306,Electronics,,Smartphone,4,5065.4,20261.6,Debit Card,Delivered,1,Defective item,Punjab,India
+ORD100643,30-01-2025,CUST4552,Home & Kitchen,,Cookware Set,1,1380.28,1380.28,UPI,Returned,1,Very bad product,Karnataka,India
+ORD100644,05-04-2025,CUST2816,Electronics,,Tablet,2,18922.73,37845.46,Credit Card,Pending,5,Highly recommend!,Sikkim,India
+ORD100645,07-08-2025,CUST6298,Beauty,,Face Cream,4,46150.23,184600.92,Debit Card,Delivered,3,Average,West Bengal,India
+ORD100646,13-05-2025,CUST5336,Home & Kitchen,,Mixer Grinder,4,19551.8,78207.2,Credit Card,Pending,1,Very bad product,Bihar,India
+ORD100647,25-02-2025,CUST3357,Beauty,,Perfume,5,19753.2,98766.0,Cash on Delivery,Delivered,4,Would buy again,Telangana,India
+ORD100648,06-02-2025,CUST5105,Electronics,,Smartwatch,3,5343.7,16031.1,Cash on Delivery,Delivered,1,Terrible experience,Jharkhand,India
+ORD100649,19-03-2025,CUST6403,Clothing,,T-Shirt,1,33297.37,33297.37,Cash on Delivery,Returned,3,Average,Mizoram,India
+ORD100650,04-10-2025,CUST4700,Books,,Children's Book,4,21915.67,87662.68,UPI,Pending,1,Terrible experience,Jharkhand,India
+ORD100651,20-06-2025,CUST5961,Electronics,,Tablet,5,46765.1,233825.5,Cash on Delivery,Delivered,3,Average,Sikkim,India
+ORD100652,29-05-2025,CUST4327,Home & Kitchen,,Water Purifier,3,4206.75,12620.25,Credit Card,Returned,4,Good quality,Maharashtra,India
+ORD100653,19-11-2025,CUST6886,Beauty,,Perfume,3,34854.94,104564.82,Cash on Delivery,Delivered,1,Terrible experience,Karnataka,India
+ORD100654,03-05-2025,CUST9015,Clothing,,Jeans,1,9816.02,9816.02,Cash on Delivery,Delivered,5,Fantastic quality!,Madhya Pradesh,India
+ORD100655,09-01-2025,CUST1606,Home & Kitchen,,Air Fryer,5,48254.7,241273.5,Debit Card,Delivered,4,Value for money,Tamil Nadu,India
+ORD100656,23-08-2025,CUST9791,Electronics,,Smartwatch,1,10741.57,10741.57,Credit Card,Returned,5,Fantastic quality!,Jharkhand,India
+ORD100657,01-12-2025,CUST1312,Clothing,,T-Shirt,1,36825.89,36825.89,Cash on Delivery,Returned,4,Good quality,Nagaland,India
+ORD100658,07-06-2025,CUST2594,Clothing,,Jeans,1,8778.0,8778.0,Cash on Delivery,Returned,1,Waste of money,Chhattisgarh,India
+ORD100659,12-11-2025,CUST4613,Books,,Fiction Novel,1,5886.15,5886.15,UPI,Delivered,5,Worth every rupee!,Gujarat,India
+ORD100660,07-10-2025,CUST3250,Home & Kitchen,,Air Fryer,3,6215.96,18647.88,Debit Card,Delivered,5,Excellent product!,Maharashtra,India
+ORD100661,14-03-2025,CUST7801,Books,,Science Textbook,3,3348.45,10045.35,Credit Card,Returned,3,Could be better,Sikkim,India
+ORD100662,21-01-2025,CUST3185,Books,,Science Textbook,4,12333.5,49334.0,UPI,Returned,5,Fantastic quality!,Madhya Pradesh,India
+ORD100663,04-01-2025,CUST1118,Beauty,,Perfume,1,44005.42,44005.42,Credit Card,Delivered,1,Never buying again,Sikkim,India
+ORD100664,15-03-2025,CUST5439,Home & Kitchen,,Air Fryer,4,34679.44,138717.76,Cash on Delivery,Pending,2,Quality could improve,Telangana,India
+ORD100665,10-11-2025,CUST2442,Clothing,,Saree,1,29894.34,29894.34,Debit Card,Pending,4,Pretty decent,Goa,India
+ORD100666,18-02-2025,CUST6929,Electronics,,Tablet,2,9756.76,19513.52,Credit Card,Pending,5,Loved it!,Punjab,India
+ORD100667,17-12-2025,CUST8772,Home & Kitchen,,Mixer Grinder,2,5811.42,11622.84,Cash on Delivery,Delivered,2,Quality could improve,Odisha,India
+ORD100668,09-05-2025,CUST6477,Electronics,,Smartphone,3,14396.21,43188.63,Cash on Delivery,Delivered,4,Good quality,Jharkhand,India
+ORD100669,06-09-2025,CUST9436,Electronics,,Tablet,2,8070.67,16141.34,UPI,Delivered,1,Waste of money,Madhya Pradesh,India
+ORD100670,13-12-2025,CUST6336,Beauty,,Hair Dryer,5,16433.42,82167.1,Credit Card,Delivered,2,Disappointed,Nagaland,India
+ORD100671,12-07-2025,CUST4615,Clothing,,T-Shirt,2,36939.84,73879.68,UPI,Pending,2,Poor packaging,Uttarakhand,India
+ORD100672,21-08-2025,CUST3917,Beauty,,Face Cream,4,7418.08,29672.32,Cash on Delivery,Pending,5,Loved it!,Andhra Pradesh,India
+ORD100673,21-06-2025,CUST3084,Beauty,,Perfume,3,48782.68,146348.04,UPI,Returned,2,Poor packaging,Jharkhand,India
+ORD100674,23-08-2025,CUST7852,Electronics,,Headphones,2,5733.24,11466.48,Credit Card,Pending,4,Satisfied with the product,Jharkhand,India
+ORD100675,29-03-2025,CUST4763,Home & Kitchen,,Water Purifier,2,39519.44,79038.88,UPI,Pending,5,Fantastic quality!,Gujarat,India
+ORD100676,23-05-2025,CUST1237,Beauty,,Perfume,5,23779.75,118898.75,Cash on Delivery,Returned,4,Satisfied with the product,Maharashtra,India
+ORD100677,18-03-2025,CUST1083,Clothing,,Sneakers,4,29057.46,116229.84,Cash on Delivery,Delivered,5,Excellent product!,Uttar Pradesh,India
+ORD100678,03-09-2025,CUST2605,Beauty,,Hair Dryer,1,21399.74,21399.74,Cash on Delivery,Pending,4,Satisfied with the product,Odisha,India
+ORD100679,22-04-2025,CUST3174,Electronics,,Tablet,1,34719.36,34719.36,Debit Card,Pending,4,Satisfied with the product,Punjab,India
+ORD100680,27-12-2025,CUST8524,Electronics,,Smartphone,4,33517.97,134071.88,UPI,Pending,2,Product not as expected,Rajasthan,India
+ORD100681,17-11-2025,CUST8607,Clothing,,Jacket,2,39534.96,79069.92,UPI,Returned,3,Average,Karnataka,India
+ORD100682,19-05-2025,CUST9887,Beauty,,Lipstick,5,1829.17,9145.85,Credit Card,Returned,4,Good quality,Manipur,India
+ORD100683,27-01-2025,CUST2818,Books,,Biography,1,25833.88,25833.88,Cash on Delivery,Pending,3,Fair deal,Manipur,India
+ORD100684,27-12-2025,CUST2097,Books,,Fiction Novel,3,18448.36,55345.08,Credit Card,Delivered,5,Highly recommend!,Manipur,India
+ORD100685,26-12-2025,CUST4437,Clothing,,Saree,1,32522.11,32522.11,Credit Card,Pending,5,Highly recommend!,Sikkim,India
+ORD100686,10-07-2025,CUST6656,Home & Kitchen,,Water Purifier,4,14001.84,56007.36,Cash on Delivery,Pending,1,Never buying again,Gujarat,India
+ORD100687,30-05-2025,CUST8405,Books,,Fiction Novel,4,35549.3,142197.2,Debit Card,Returned,5,Excellent product!,Mizoram,India
+ORD100688,28-05-2025,CUST2260,Clothing,,Jacket,1,4192.49,4192.49,UPI,Delivered,2,Disappointed,Meghalaya,India
+ORD100689,24-09-2025,CUST1371,Electronics,,Laptop,4,7694.8,30779.2,Debit Card,Pending,2,Poor packaging,Uttar Pradesh,India
+ORD100690,30-05-2025,CUST4097,Clothing,,Jacket,3,21122.47,63367.41,UPI,Delivered,1,Waste of money,Uttar Pradesh,India
+ORD100691,06-09-2025,CUST9686,Books,,Biography,4,29019.49,116077.96,Cash on Delivery,Pending,3,Could be better,Telangana,India
+ORD100692,27-04-2025,CUST8933,Books,,Science Textbook,3,8752.51,26257.53,Debit Card,Pending,3,Average,Goa,India
+ORD100693,13-11-2025,CUST3634,Clothing,,Sneakers,3,22905.14,68715.42,Debit Card,Delivered,2,Quality could improve,Sikkim,India
+ORD100694,22-10-2025,CUST3072,Clothing,,Jeans,2,6022.48,12044.96,Cash on Delivery,Pending,3,Could be better,Assam,India
+ORD100695,26-06-2025,CUST3423,Clothing,,Jeans,5,35415.29,177076.45,Debit Card,Pending,3,Not bad,Jharkhand,India
+ORD100696,27-07-2025,CUST9182,Clothing,,Saree,3,6250.2,18750.6,Credit Card,Pending,1,Defective item,Mizoram,India
+ORD100697,28-11-2025,CUST5842,Clothing,,T-Shirt,5,48784.93,243924.65,Cash on Delivery,Pending,3,Not bad,Sikkim,India
+ORD100698,03-09-2025,CUST1656,Clothing,,Saree,4,17066.48,68265.92,Credit Card,Returned,1,Never buying again,Rajasthan,India
+ORD100699,17-08-2025,CUST6855,Electronics,,Headphones,1,20201.17,20201.17,UPI,Pending,2,Not satisfied,Punjab,India
+ORD100700,11-04-2025,CUST1369,Books,,Science Textbook,5,26416.41,132082.05,UPI,Returned,3,Fair deal,Karnataka,India
+ORD100701,05-11-2025,CUST9381,Electronics,,Tablet,4,9883.61,39534.44,UPI,Returned,3,Could be better,Assam,India
+ORD100702,07-01-2025,CUST5663,Beauty,,Perfume,4,18607.57,74430.28,Debit Card,Pending,3,Could be better,Uttarakhand,India
+ORD100703,01-08-2025,CUST8249,Beauty,,Hair Dryer,1,10941.62,10941.62,Debit Card,Delivered,4,Pretty decent,Tripura,India
+ORD100704,17-04-2025,CUST5968,Beauty,,Perfume,5,29977.2,149886.0,Cash on Delivery,Returned,2,Disappointed,Haryana,India
+ORD100705,24-11-2025,CUST5478,Electronics,,Tablet,4,4604.72,18418.88,Cash on Delivery,Delivered,4,Would buy again,Sikkim,India
+ORD100706,29-05-2025,CUST9037,Beauty,,Hair Dryer,2,10123.03,20246.06,UPI,Pending,4,Would buy again,Jharkhand,India
+ORD100707,14-01-2025,CUST1040,Home & Kitchen,,Air Fryer,5,37044.83,185224.15,Credit Card,Pending,2,Disappointed,Haryana,India
+ORD100708,19-12-2025,CUST5009,Beauty,,Face Cream,3,20974.41,62923.23,UPI,Delivered,4,Value for money,Uttar Pradesh,India
+ORD100709,04-09-2025,CUST8144,Beauty,,Face Cream,5,37329.17,186645.85,Debit Card,Returned,5,Worth every rupee!,Gujarat,India
+ORD100710,13-05-2025,CUST3668,Electronics,,Headphones,5,36701.27,183506.35,UPI,Delivered,1,Defective item,Chhattisgarh,India
+ORD100711,04-07-2025,CUST7873,Beauty,,Perfume,3,8332.78,24998.34,Debit Card,Delivered,3,Could be better,Andhra Pradesh,India
+ORD100712,18-02-2025,CUST3738,Home & Kitchen,,Water Purifier,1,25790.55,25790.55,Debit Card,Pending,2,Disappointed,Arunachal Pradesh,India
+ORD100713,15-03-2025,CUST1211,Home & Kitchen,,Vacuum Cleaner,1,26814.13,26814.13,Credit Card,Returned,3,Could be better,Haryana,India
+ORD100714,22-02-2025,CUST4569,Home & Kitchen,,Air Fryer,4,17147.59,68590.36,Credit Card,Returned,2,Quality could improve,Meghalaya,India
+ORD100715,30-09-2025,CUST2867,Clothing,,Saree,5,34544.71,172723.55,Cash on Delivery,Pending,5,Excellent product!,Punjab,India
+ORD100716,20-12-2025,CUST6940,Electronics,,Laptop,1,24080.01,24080.01,Credit Card,Pending,3,Not bad,West Bengal,India
+ORD100717,02-03-2025,CUST4643,Books,,Biography,2,35552.77,71105.54,Credit Card,Returned,1,Waste of money,Tripura,India
+ORD100718,06-08-2025,CUST2830,Clothing,,Sneakers,2,10650.08,21300.16,UPI,Delivered,1,Terrible experience,Assam,India
+ORD100719,31-10-2025,CUST1971,Beauty,,Face Cream,2,5569.31,11138.62,Cash on Delivery,Delivered,5,Highly recommend!,Manipur,India
+ORD100720,05-03-2025,CUST4365,Electronics,,Smartphone,3,33445.8,100337.4,Credit Card,Delivered,1,Defective item,Maharashtra,India
+ORD100721,24-10-2025,CUST6698,Electronics,,Smartphone,2,42323.9,84647.8,Debit Card,Delivered,3,Not bad,Rajasthan,India
+ORD100722,24-10-2025,CUST1229,Books,,Science Textbook,5,28597.72,142988.6,Credit Card,Returned,1,Waste of money,Odisha,India
+ORD100723,20-04-2025,CUST9260,Home & Kitchen,,Cookware Set,5,415.58,2077.9,Cash on Delivery,Pending,1,Never buying again,Gujarat,India
+ORD100724,14-07-2025,CUST7948,Clothing,,Jacket,1,9206.26,9206.26,Credit Card,Returned,3,Okay product,Tamil Nadu,India
+ORD100725,24-09-2025,CUST3226,Beauty,,Face Cream,3,6356.05,19068.15,Cash on Delivery,Pending,1,Defective item,Tamil Nadu,India
+ORD100726,17-07-2025,CUST5646,Books,,Fiction Novel,1,16540.15,16540.15,Cash on Delivery,Returned,1,Defective item,Madhya Pradesh,India
+ORD100727,07-04-2025,CUST2140,Beauty,,Perfume,5,20482.65,102413.25,Cash on Delivery,Returned,4,Value for money,Meghalaya,India
+ORD100728,13-08-2025,CUST9563,Clothing,,T-Shirt,4,33670.35,134681.4,UPI,Delivered,4,Satisfied with the product,Madhya Pradesh,India
+ORD100729,03-02-2025,CUST6959,Beauty,,Shampoo,5,48883.03,244415.15,Credit Card,Pending,2,Quality could improve,Haryana,India
+ORD100730,13-09-2025,CUST5563,Books,,Children's Book,1,11796.91,11796.91,Debit Card,Returned,4,Pretty decent,Chhattisgarh,India
+ORD100731,19-09-2025,CUST5569,Home & Kitchen,,Air Fryer,5,47516.91,237584.55,Credit Card,Pending,4,Good quality,Rajasthan,India
+ORD100732,16-01-2025,CUST2631,Electronics,,Headphones,4,24964.23,99856.92,UPI,Delivered,2,Product not as expected,Tamil Nadu,India
+ORD100733,20-03-2025,CUST5960,Electronics,,Laptop,4,30308.28,121233.12,UPI,Delivered,3,Not bad,Andhra Pradesh,India
+ORD100734,09-09-2025,CUST9270,Beauty,,Shampoo,2,14819.43,29638.86,Debit Card,Returned,4,Value for money,Tripura,India
+ORD100735,09-08-2025,CUST2951,Books,,Comics,1,47638.51,47638.51,Cash on Delivery,Pending,1,Defective item,West Bengal,India
+ORD100736,13-10-2025,CUST5965,Beauty,,Shampoo,4,1991.86,7967.44,Credit Card,Pending,2,Product not as expected,Tripura,India
+ORD100737,19-10-2025,CUST9037,Clothing,,Sneakers,4,24475.26,97901.04,Cash on Delivery,Pending,1,Never buying again,Bihar,India
+ORD100738,30-10-2025,CUST7189,Clothing,,Saree,1,19690.96,19690.96,Debit Card,Pending,4,Value for money,Tripura,India
+ORD100739,28-06-2025,CUST1440,Electronics,,Smartphone,5,2446.9,12234.5,Debit Card,Pending,3,Average,Maharashtra,India
+ORD100740,05-12-2025,CUST5001,Beauty,,Lipstick,3,20714.09,62142.27,Credit Card,Delivered,1,Defective item,Haryana,India
+ORD100741,22-06-2025,CUST3781,Books,,Fiction Novel,1,43473.21,43473.21,UPI,Returned,1,Defective item,Goa,India
+ORD100742,17-05-2025,CUST1334,Electronics,,Smartwatch,4,28488.86,113955.44,Cash on Delivery,Returned,4,Good quality,Uttar Pradesh,India
+ORD100743,20-02-2025,CUST9001,Home & Kitchen,,Air Fryer,5,19636.98,98184.9,UPI,Returned,5,Loved it!,Tamil Nadu,India
+ORD100744,27-03-2025,CUST5907,Home & Kitchen,,Air Fryer,5,40610.57,203052.85,Debit Card,Pending,3,Okay product,Mizoram,India
+ORD100745,25-01-2025,CUST5871,Beauty,,Face Cream,5,10861.19,54305.95,Cash on Delivery,Delivered,3,Not bad,Manipur,India
+ORD100746,04-02-2025,CUST9700,Electronics,,Tablet,1,29674.86,29674.86,Cash on Delivery,Pending,3,Okay product,Arunachal Pradesh,India
+ORD100747,10-08-2025,CUST9846,Home & Kitchen,,Mixer Grinder,3,25331.05,75993.15,Debit Card,Delivered,3,Fair deal,Nagaland,India
+ORD100748,03-04-2025,CUST1304,Beauty,,Lipstick,5,25865.39,129326.95,Credit Card,Returned,5,Worth every rupee!,Haryana,India
+ORD100749,11-11-2025,CUST8106,Clothing,,Jacket,3,46870.71,140612.13,UPI,Returned,5,Loved it!,West Bengal,India
+ORD100750,11-08-2025,CUST7721,Home & Kitchen,,Air Fryer,2,12170.62,24341.24,Debit Card,Delivered,3,Okay product,Bihar,India
+ORD100751,18-12-2025,CUST4868,Beauty,,Lipstick,3,32372.92,97118.76,Cash on Delivery,Delivered,3,Average,Manipur,India
+ORD100752,26-08-2025,CUST8952,Clothing,,Jeans,1,12430.21,12430.21,Cash on Delivery,Pending,3,Average,Chhattisgarh,India
+ORD100753,23-05-2025,CUST3883,Clothing,,Jeans,3,6994.25,20982.75,UPI,Returned,3,Fair deal,Uttar Pradesh,India
+ORD100754,02-02-2025,CUST7668,Electronics,,Smartphone,1,15832.46,15832.46,Debit Card,Returned,3,Average,Manipur,India
+ORD100755,03-03-2025,CUST9551,Beauty,,Perfume,2,5774.23,11548.46,Debit Card,Pending,5,Excellent product!,Sikkim,India
+ORD100756,18-06-2025,CUST7388,Clothing,,Saree,1,38704.91,38704.91,Credit Card,Pending,3,Okay product,Mizoram,India
+ORD100757,14-08-2025,CUST7690,Clothing,,T-Shirt,2,10862.61,21725.22,Debit Card,Returned,3,Average,Nagaland,India
+ORD100758,12-06-2025,CUST9941,Beauty,,Hair Dryer,3,35040.96,105122.88,Cash on Delivery,Pending,1,Waste of money,Punjab,India
+ORD100759,07-06-2025,CUST1345,Home & Kitchen,,Cookware Set,3,23866.04,71598.12,UPI,Returned,3,Average,Karnataka,India
+ORD100760,17-12-2025,CUST2999,Clothing,,Sneakers,5,19357.57,96787.85,Credit Card,Pending,3,Fair deal,Tripura,India
+ORD100761,02-06-2025,CUST4446,Electronics,,Smartwatch,3,15184.23,45552.69,Credit Card,Pending,2,Disappointed,Manipur,India
+ORD100762,30-08-2025,CUST7765,Beauty,,Face Cream,3,43348.94,130046.82,Debit Card,Returned,4,Pretty decent,Punjab,India
+ORD100763,04-08-2025,CUST9973,Electronics,,Laptop,3,25415.46,76246.38,Debit Card,Pending,3,Average,Uttarakhand,India
+ORD100764,02-01-2025,CUST7564,Electronics,,Laptop,4,39592.76,158371.04,Credit Card,Returned,2,Disappointed,Telangana,India
+ORD100765,22-09-2025,CUST3131,Home & Kitchen,,Water Purifier,1,5719.24,5719.24,Cash on Delivery,Pending,2,Product not as expected,Mizoram,India
+ORD100766,17-06-2025,CUST5616,Beauty,,Perfume,3,8839.26,26517.78,Credit Card,Delivered,5,Worth every rupee!,Maharashtra,India
+ORD100767,25-04-2025,CUST1339,Home & Kitchen,,Cookware Set,4,43844.22,175376.88,UPI,Returned,5,Fantastic quality!,Uttarakhand,India
+ORD100768,26-01-2025,CUST7570,Clothing,,T-Shirt,4,10073.66,40294.64,Cash on Delivery,Returned,2,Disappointed,Nagaland,India
+ORD100769,02-03-2025,CUST1231,Clothing,,T-Shirt,3,8672.12,26016.36,Cash on Delivery,Pending,5,Worth every rupee!,Manipur,India
+ORD100770,28-05-2025,CUST9096,Electronics,,Laptop,2,9689.1,19378.2,Cash on Delivery,Delivered,3,Fair deal,Goa,India
+ORD100771,13-12-2025,CUST4102,Clothing,,Saree,2,49761.33,99522.66,Cash on Delivery,Delivered,3,Fair deal,Telangana,India
+ORD100772,13-11-2025,CUST8388,Clothing,,T-Shirt,3,48811.18,146433.54,Credit Card,Pending,2,Poor packaging,West Bengal,India
+ORD100773,21-12-2025,CUST7513,Beauty,,Face Cream,1,23550.3,23550.3,Credit Card,Returned,3,Fair deal,Meghalaya,India
+ORD100774,31-01-2025,CUST1853,Beauty,,Hair Dryer,3,3838.17,11514.51,Debit Card,Delivered,5,Worth every rupee!,Manipur,India
+ORD100775,03-01-2025,CUST5155,Home & Kitchen,,Water Purifier,5,35536.39,177681.95,Cash on Delivery,Pending,1,Terrible experience,Himachal Pradesh,India
+ORD100776,14-05-2025,CUST3783,Home & Kitchen,,Cookware Set,5,2248.02,11240.1,Cash on Delivery,Pending,2,Product not as expected,Tripura,India
+ORD100777,14-03-2025,CUST5266,Clothing,,T-Shirt,3,35570.73,106712.19,UPI,Pending,4,Good quality,Haryana,India
+ORD100778,25-05-2025,CUST5312,Clothing,,Jacket,3,37441.6,112324.8,Debit Card,Returned,4,Value for money,Uttarakhand,India
+ORD100779,19-03-2025,CUST8208,Beauty,,Perfume,3,36896.09,110688.27,UPI,Delivered,4,Satisfied with the product,Rajasthan,India
+ORD100780,25-03-2025,CUST8653,Electronics,,Laptop,2,1985.94,3971.88,Cash on Delivery,Delivered,3,Fair deal,Himachal Pradesh,India
+ORD100781,06-09-2025,CUST8499,Electronics,,Smartwatch,3,49443.17,148329.51,Cash on Delivery,Delivered,5,Loved it!,Tripura,India
+ORD100782,03-04-2025,CUST3757,Electronics,,Headphones,1,10345.94,10345.94,Debit Card,Returned,3,Not bad,Tripura,India
+ORD100783,03-04-2025,CUST7822,Clothing,,Saree,1,26395.57,26395.57,UPI,Delivered,5,Worth every rupee!,Mizoram,India
+ORD100784,21-07-2025,CUST7120,Electronics,,Headphones,1,14357.21,14357.21,UPI,Pending,1,Waste of money,Meghalaya,India
+ORD100785,21-08-2025,CUST5412,Electronics,,Smartphone,4,41568.82,166275.28,UPI,Pending,4,Good quality,Rajasthan,India
+ORD100786,08-03-2025,CUST4463,Books,,Children's Book,3,47381.44,142144.32,UPI,Returned,5,Highly recommend!,Haryana,India
+ORD100787,15-07-2025,CUST2516,Home & Kitchen,,Mixer Grinder,1,27448.38,27448.38,Cash on Delivery,Pending,5,Loved it!,Himachal Pradesh,India
+ORD100788,25-03-2025,CUST7365,Clothing,,Jacket,1,1221.5,1221.5,Cash on Delivery,Pending,2,Quality could improve,Manipur,India
+ORD100789,17-12-2025,CUST3151,Electronics,,Headphones,4,40094.8,160379.2,Debit Card,Returned,3,Average,Assam,India
+ORD100790,01-09-2025,CUST5398,Home & Kitchen,,Water Purifier,2,24583.23,49166.46,Cash on Delivery,Delivered,4,Pretty decent,Tamil Nadu,India
+ORD100791,17-02-2025,CUST1662,Home & Kitchen,,Water Purifier,2,21818.47,43636.94,Debit Card,Pending,4,Satisfied with the product,Jharkhand,India
+ORD100792,12-02-2025,CUST5762,Clothing,,Jacket,5,31552.07,157760.35,Cash on Delivery,Pending,5,Excellent product!,Haryana,India
+ORD100793,08-05-2025,CUST9570,Beauty,,Lipstick,2,49212.47,98424.94,Cash on Delivery,Pending,3,Not bad,Himachal Pradesh,India
+ORD100794,25-02-2025,CUST9366,Electronics,,Tablet,1,45881.64,45881.64,Cash on Delivery,Pending,5,Excellent product!,Karnataka,India
+ORD100795,11-02-2025,CUST9248,Beauty,,Hair Dryer,3,17901.79,53705.37,UPI,Delivered,5,Worth every rupee!,Karnataka,India
+ORD100796,27-12-2025,CUST5876,Clothing,,Jeans,4,2453.88,9815.52,Debit Card,Returned,4,Pretty decent,Nagaland,India
+ORD100797,19-04-2025,CUST4032,Beauty,,Hair Dryer,3,17198.45,51595.35,UPI,Returned,2,Poor packaging,Assam,India
+ORD100798,22-07-2025,CUST2911,Home & Kitchen,,Mixer Grinder,4,26811.92,107247.68,UPI,Delivered,1,Terrible experience,Chhattisgarh,India
+ORD100799,13-11-2025,CUST6910,Beauty,,Shampoo,5,36350.39,181751.95,Cash on Delivery,Pending,3,Average,Chhattisgarh,India
+ORD100800,23-12-2025,CUST4083,Clothing,,Jeans,1,9701.94,9701.94,UPI,Delivered,1,Terrible experience,Haryana,India
+ORD100801,08-04-2025,CUST2410,Clothing,,Jeans,4,42136.07,168544.28,Debit Card,Pending,5,Loved it!,Madhya Pradesh,India
+ORD100802,26-12-2025,CUST8295,Beauty,,Shampoo,1,5999.65,5999.65,Cash on Delivery,Pending,2,Not satisfied,Tamil Nadu,India
+ORD100803,20-07-2025,CUST1834,Beauty,,Hair Dryer,2,10226.65,20453.3,Debit Card,Delivered,5,Excellent product!,Chhattisgarh,India
+ORD100804,11-10-2025,CUST5764,Beauty,,Shampoo,4,36906.5,147626.0,UPI,Pending,5,Worth every rupee!,Tamil Nadu,India
+ORD100805,29-04-2025,CUST1994,Beauty,,Hair Dryer,5,36285.79,181428.95,UPI,Pending,4,Would buy again,Gujarat,India
+ORD100806,31-08-2025,CUST2915,Home & Kitchen,,Water Purifier,1,13538.87,13538.87,Cash on Delivery,Returned,4,Value for money,Assam,India
+ORD100807,29-08-2025,CUST6633,Beauty,,Shampoo,1,8234.41,8234.41,Cash on Delivery,Delivered,2,Poor packaging,Maharashtra,India
+ORD100808,09-03-2025,CUST5806,Clothing,,Saree,3,46102.43,138307.29,Cash on Delivery,Pending,4,Value for money,Maharashtra,India
+ORD100809,08-12-2025,CUST8911,Beauty,,Perfume,5,10518.99,52594.95,Credit Card,Delivered,1,Waste of money,Karnataka,India
+ORD100810,10-09-2025,CUST5975,Clothing,,Saree,4,5225.01,20900.04,Credit Card,Delivered,4,Would buy again,Nagaland,India
+ORD100811,13-12-2025,CUST3598,Electronics,,Smartphone,3,44069.12,132207.36,Credit Card,Returned,3,Average,Manipur,India
+ORD100812,03-03-2025,CUST4671,Electronics,,Headphones,4,5875.67,23502.68,Cash on Delivery,Pending,2,Disappointed,Maharashtra,India
+ORD100813,20-12-2025,CUST9444,Home & Kitchen,,Mixer Grinder,5,13521.06,67605.3,UPI,Returned,2,Not satisfied,Arunachal Pradesh,India
+ORD100814,09-11-2025,CUST2669,Beauty,,Shampoo,1,48738.06,48738.06,UPI,Returned,5,Excellent product!,Gujarat,India
+ORD100815,30-05-2025,CUST8233,Clothing,,T-Shirt,2,45567.09,91134.18,Cash on Delivery,Returned,2,Not satisfied,Uttarakhand,India
+ORD100816,14-04-2025,CUST8194,Clothing,,Sneakers,3,40994.21,122982.63,Cash on Delivery,Delivered,1,Waste of money,Maharashtra,India
+ORD100817,17-05-2025,CUST7101,Beauty,,Lipstick,3,25350.13,76050.39,Cash on Delivery,Pending,1,Waste of money,Madhya Pradesh,India
+ORD100818,08-08-2025,CUST7773,Clothing,,Saree,4,39403.34,157613.36,Cash on Delivery,Pending,2,Poor packaging,Tripura,India
+ORD100819,22-09-2025,CUST2140,Home & Kitchen,,Mixer Grinder,4,7450.1,29800.4,UPI,Pending,1,Defective item,Odisha,India
+ORD100820,05-12-2025,CUST3473,Beauty,,Perfume,4,3261.12,13044.48,UPI,Returned,1,Never buying again,Tamil Nadu,India
+ORD100821,05-06-2025,CUST6139,Home & Kitchen,,Air Fryer,4,44311.99,177247.96,Debit Card,Delivered,5,Highly recommend!,Andhra Pradesh,India
+ORD100822,26-11-2025,CUST4360,Books,,Comics,2,35074.69,70149.38,Cash on Delivery,Returned,4,Value for money,West Bengal,India
+ORD100823,21-06-2025,CUST7389,Beauty,,Perfume,3,4397.19,13191.57,Credit Card,Returned,5,Fantastic quality!,Tripura,India
+ORD100824,24-09-2025,CUST6582,Home & Kitchen,,Cookware Set,1,25681.25,25681.25,Credit Card,Delivered,3,Average,Odisha,India
+ORD100825,05-08-2025,CUST9278,Books,,Comics,3,12218.72,36656.16,UPI,Returned,3,Average,Madhya Pradesh,India
+ORD100826,30-11-2025,CUST3043,Home & Kitchen,,Vacuum Cleaner,5,17852.77,89263.85,Cash on Delivery,Pending,1,Never buying again,Meghalaya,India
+ORD100827,17-10-2025,CUST9737,Electronics,,Smartwatch,3,49150.94,147452.82,Credit Card,Pending,5,Highly recommend!,Andhra Pradesh,India
+ORD100828,07-05-2025,CUST2724,Home & Kitchen,,Water Purifier,2,35774.68,71549.36,Debit Card,Returned,5,Fantastic quality!,Kerala,India
+ORD100829,30-07-2025,CUST2342,Clothing,,Sneakers,4,5079.79,20319.16,UPI,Delivered,4,Pretty decent,Jharkhand,India
+ORD100830,13-12-2025,CUST9622,Clothing,,Jacket,2,22418.97,44837.94,Cash on Delivery,Returned,3,Not bad,Tripura,India
+ORD100831,14-08-2025,CUST9020,Books,,Children's Book,3,29298.33,87894.99,Cash on Delivery,Delivered,4,Satisfied with the product,Madhya Pradesh,India
+ORD100832,27-12-2025,CUST9408,Books,,Science Textbook,4,35615.3,142461.2,UPI,Returned,2,Quality could improve,West Bengal,India
+ORD100833,09-07-2025,CUST2945,Beauty,,Shampoo,1,37375.52,37375.52,Cash on Delivery,Delivered,5,Excellent product!,Uttarakhand,India
+ORD100834,02-03-2025,CUST7086,Home & Kitchen,,Water Purifier,3,2206.05,6618.15,Debit Card,Pending,2,Disappointed,Maharashtra,India
+ORD100835,29-10-2025,CUST7910,Home & Kitchen,,Air Fryer,1,39601.94,39601.94,UPI,Pending,2,Disappointed,Nagaland,India
+ORD100836,28-06-2025,CUST2106,Clothing,,Jeans,4,303.87,1215.48,UPI,Pending,5,Worth every rupee!,Telangana,India
+ORD100837,13-07-2025,CUST8786,Books,,Biography,5,22728.25,113641.25,Credit Card,Delivered,3,Not bad,Telangana,India
+ORD100838,15-02-2025,CUST7711,Beauty,,Shampoo,4,7619.33,30477.32,Cash on Delivery,Delivered,3,Fair deal,Nagaland,India
+ORD100839,23-05-2025,CUST2450,Home & Kitchen,,Water Purifier,1,47912.36,47912.36,Credit Card,Returned,4,Good quality,Uttar Pradesh,India
+ORD100840,13-02-2025,CUST4152,Books,,Biography,5,32328.95,161644.75,UPI,Returned,5,Fantastic quality!,Punjab,India
+ORD100841,04-12-2025,CUST9713,Clothing,,Jacket,5,44863.84,224319.2,Credit Card,Delivered,1,Defective item,Haryana,India
+ORD100842,07-11-2025,CUST6249,Clothing,,Jeans,5,22322.63,111613.15,Cash on Delivery,Returned,5,Excellent product!,Meghalaya,India
+ORD100843,13-01-2025,CUST9649,Beauty,,Face Cream,3,21963.47,65890.41,Debit Card,Pending,4,Value for money,Haryana,India
+ORD100844,15-03-2025,CUST3992,Electronics,,Smartphone,1,27180.61,27180.61,Debit Card,Delivered,3,Okay product,Himachal Pradesh,India
+ORD100845,03-04-2025,CUST1445,Home & Kitchen,,Air Fryer,2,3133.9,6267.8,UPI,Pending,3,Fair deal,Maharashtra,India
+ORD100846,13-05-2025,CUST7152,Electronics,,Headphones,2,20758.58,41517.16,UPI,Delivered,3,Okay product,Meghalaya,India
+ORD100847,16-09-2025,CUST7308,Clothing,,Saree,5,11977.26,59886.3,UPI,Pending,5,Excellent product!,Andhra Pradesh,India
+ORD100848,15-01-2025,CUST7676,Home & Kitchen,,Air Fryer,5,20472.41,102362.05,Credit Card,Delivered,4,Value for money,Madhya Pradesh,India
+ORD100849,30-11-2025,CUST3057,Books,,Comics,1,12466.54,12466.54,Debit Card,Returned,5,Worth every rupee!,Karnataka,India
+ORD100850,11-07-2025,CUST9854,Beauty,,Face Cream,5,10332.15,51660.75,Credit Card,Delivered,2,Poor packaging,Sikkim,India
+ORD100851,14-11-2025,CUST5739,Beauty,,Hair Dryer,4,2281.25,9125.0,Credit Card,Delivered,4,Good quality,Sikkim,India
+ORD100852,29-06-2025,CUST4485,Beauty,,Lipstick,5,12694.27,63471.35,Debit Card,Delivered,4,Satisfied with the product,Uttar Pradesh,India
+ORD100853,24-12-2025,CUST3014,Books,,Comics,1,15171.79,15171.79,Credit Card,Returned,4,Would buy again,Madhya Pradesh,India
+ORD100854,16-12-2025,CUST6613,Home & Kitchen,,Air Fryer,2,30600.18,61200.36,Debit Card,Returned,3,Fair deal,Telangana,India
+ORD100855,03-11-2025,CUST6381,Home & Kitchen,,Cookware Set,3,17213.16,51639.48,UPI,Returned,4,Satisfied with the product,Goa,India
+ORD100856,11-12-2025,CUST3843,Electronics,,Tablet,4,413.11,1652.44,Cash on Delivery,Returned,1,Terrible experience,Uttarakhand,India
+ORD100857,03-10-2025,CUST1507,Beauty,,Hair Dryer,1,39407.8,39407.8,Cash on Delivery,Returned,1,Very bad product,Manipur,India
+ORD100858,23-12-2025,CUST1138,Home & Kitchen,,Air Fryer,5,18026.69,90133.45,UPI,Pending,2,Disappointed,Chhattisgarh,India
+ORD100859,24-05-2025,CUST6862,Clothing,,Jacket,1,11231.73,11231.73,Credit Card,Delivered,1,Never buying again,Punjab,India
+ORD100860,19-01-2025,CUST5599,Home & Kitchen,,Cookware Set,2,49009.93,98019.86,Cash on Delivery,Returned,3,Not bad,Nagaland,India
+ORD100861,26-02-2025,CUST5544,Clothing,,T-Shirt,2,49216.32,98432.64,Cash on Delivery,Delivered,4,Would buy again,Andhra Pradesh,India
+ORD100862,29-10-2025,CUST3101,Clothing,,Saree,5,28343.98,141719.9,UPI,Delivered,1,Defective item,Madhya Pradesh,India
+ORD100863,09-04-2025,CUST1378,Books,,Science Textbook,5,36499.16,182495.8,Debit Card,Returned,3,Not bad,Odisha,India
+ORD100864,15-06-2025,CUST8086,Beauty,,Face Cream,4,32120.12,128480.48,Cash on Delivery,Pending,1,Very bad product,Odisha,India
+ORD100865,25-04-2025,CUST1769,Books,,Children's Book,4,18201.3,72805.2,Debit Card,Pending,1,Never buying again,Sikkim,India
+ORD100866,11-02-2025,CUST1415,Beauty,,Lipstick,1,19714.57,19714.57,Credit Card,Returned,3,Fair deal,Andhra Pradesh,India
+ORD100867,02-02-2025,CUST2584,Electronics,,Laptop,2,8391.18,16782.36,UPI,Pending,3,Fair deal,Assam,India
+ORD100868,25-02-2025,CUST8759,Electronics,,Tablet,3,42057.28,126171.84,Credit Card,Pending,2,Not satisfied,Rajasthan,India
+ORD100869,14-11-2025,CUST8184,Home & Kitchen,,Water Purifier,2,47188.67,94377.34,UPI,Returned,5,Worth every rupee!,Maharashtra,India
+ORD100870,13-07-2025,CUST6132,Books,,Fiction Novel,1,48731.37,48731.37,UPI,Delivered,1,Very bad product,Chhattisgarh,India
+ORD100871,03-02-2025,CUST2668,Beauty,,Face Cream,3,30614.78,91844.34,UPI,Returned,4,Good quality,West Bengal,India
+ORD100872,30-04-2025,CUST1173,Home & Kitchen,,Air Fryer,4,4972.35,19889.4,Cash on Delivery,Pending,4,Pretty decent,Manipur,India
+ORD100873,21-08-2025,CUST9474,Beauty,,Hair Dryer,5,5243.64,26218.2,Debit Card,Returned,1,Waste of money,Goa,India
+ORD100874,31-10-2025,CUST4172,Electronics,,Smartphone,1,29839.72,29839.72,Credit Card,Returned,1,Never buying again,Arunachal Pradesh,India
+ORD100875,16-08-2025,CUST4046,Home & Kitchen,,Vacuum Cleaner,4,24173.69,96694.76,Credit Card,Delivered,5,Excellent product!,Himachal Pradesh,India
+ORD100876,30-11-2025,CUST6861,Electronics,,Laptop,3,29309.21,87927.63,Debit Card,Returned,5,Fantastic quality!,Madhya Pradesh,India
+ORD100877,30-05-2025,CUST7042,Clothing,,Jeans,4,15571.99,62287.96,UPI,Returned,3,Not bad,Karnataka,India
+ORD100878,28-01-2025,CUST7915,Clothing,,T-Shirt,2,25453.97,50907.94,Debit Card,Delivered,5,Loved it!,Gujarat,India
+ORD100879,22-12-2025,CUST8657,Clothing,,T-Shirt,3,9629.91,28889.73,Debit Card,Returned,4,Would buy again,Manipur,India
+ORD100880,23-02-2025,CUST8443,Home & Kitchen,,Water Purifier,3,21051.03,63153.09,UPI,Pending,2,Quality could improve,Karnataka,India
+ORD100881,03-05-2025,CUST8876,Electronics,,Laptop,2,23433.53,46867.06,Debit Card,Returned,2,Product not as expected,Karnataka,India
+ORD100882,05-07-2025,CUST1162,Clothing,,Jacket,2,41339.0,82678.0,UPI,Pending,1,Very bad product,Tripura,India
+ORD100883,20-11-2025,CUST6896,Books,,Fiction Novel,2,14670.7,29341.4,UPI,Delivered,2,Quality could improve,Madhya Pradesh,India
+ORD100884,31-03-2025,CUST6567,Clothing,,Sneakers,2,11103.46,22206.92,Credit Card,Delivered,3,Okay product,Himachal Pradesh,India
+ORD100885,13-12-2025,CUST3248,Electronics,,Laptop,3,45550.32,136650.96,Cash on Delivery,Returned,1,Very bad product,Tripura,India
+ORD100886,10-07-2025,CUST3807,Home & Kitchen,,Cookware Set,3,22918.94,68756.82,Cash on Delivery,Returned,3,Average,Uttarakhand,India
+ORD100887,30-09-2025,CUST7196,Electronics,,Laptop,2,39785.93,79571.86,Debit Card,Pending,2,Poor packaging,Maharashtra,India
+ORD100888,07-04-2025,CUST9773,Beauty,,Perfume,1,38201.5,38201.5,Debit Card,Delivered,5,Highly recommend!,Himachal Pradesh,India
+ORD100889,27-10-2025,CUST9011,Clothing,,T-Shirt,3,43668.0,131004.0,Credit Card,Returned,5,Excellent product!,Uttarakhand,India
+ORD100890,27-11-2025,CUST9342,Beauty,,Hair Dryer,1,8538.19,8538.19,Debit Card,Pending,4,Would buy again,Assam,India
+ORD100891,22-12-2025,CUST8918,Beauty,,Perfume,3,35681.85,107045.55,Cash on Delivery,Pending,5,Highly recommend!,Meghalaya,India
+ORD100892,23-04-2025,CUST4325,Books,,Children's Book,5,32556.92,162784.6,Cash on Delivery,Delivered,2,Product not as expected,Andhra Pradesh,India
+ORD100893,22-03-2025,CUST7129,Clothing,,Sneakers,4,44457.7,177830.8,Debit Card,Returned,5,Excellent product!,Telangana,India
+ORD100894,28-04-2025,CUST1674,Clothing,,T-Shirt,3,22336.36,67009.08,Cash on Delivery,Returned,3,Not bad,Nagaland,India
+ORD100895,08-07-2025,CUST9151,Home & Kitchen,,Air Fryer,4,23484.04,93936.16,Debit Card,Pending,4,Pretty decent,Arunachal Pradesh,India
+ORD100896,03-07-2025,CUST2350,Electronics,,Laptop,4,11842.76,47371.04,Debit Card,Returned,1,Never buying again,Kerala,India
+ORD100897,02-03-2025,CUST2168,Books,,Fiction Novel,3,46344.97,139034.91,Debit Card,Delivered,1,Never buying again,Haryana,India
+ORD100898,04-06-2025,CUST5496,Clothing,,Sneakers,2,33820.34,67640.68,Credit Card,Returned,3,Not bad,Rajasthan,India
+ORD100899,25-05-2025,CUST6679,Clothing,,Saree,3,624.99,1874.97,Cash on Delivery,Pending,3,Not bad,Assam,India
+ORD100900,23-07-2025,CUST4728,Electronics,,Smartwatch,5,49465.88,247329.4,Credit Card,Returned,2,Quality could improve,Tripura,India
+ORD100901,28-08-2025,CUST8559,Beauty,,Perfume,5,29432.78,147163.9,Debit Card,Delivered,5,Highly recommend!,Rajasthan,India
+ORD100902,13-10-2025,CUST1493,Clothing,,Jacket,4,10637.32,42549.28,Debit Card,Delivered,4,Would buy again,Arunachal Pradesh,India
+ORD100903,23-06-2025,CUST4694,Clothing,,Sneakers,1,25090.05,25090.05,Cash on Delivery,Pending,3,Fair deal,Tripura,India
+ORD100904,17-01-2025,CUST3279,Books,,Biography,3,29430.36,88291.08,Credit Card,Pending,5,Fantastic quality!,Andhra Pradesh,India
+ORD100905,15-04-2025,CUST7400,Books,,Comics,5,43373.85,216869.25,UPI,Returned,4,Pretty decent,Haryana,India
+ORD100906,24-11-2025,CUST5991,Clothing,,Jacket,1,16576.3,16576.3,UPI,Delivered,4,Good quality,Gujarat,India
+ORD100907,08-09-2025,CUST1439,Books,,Science Textbook,1,41358.45,41358.45,Credit Card,Delivered,5,Excellent product!,Uttarakhand,India
+ORD100908,05-02-2025,CUST8449,Beauty,,Lipstick,2,11805.36,23610.72,UPI,Pending,5,Fantastic quality!,Andhra Pradesh,India
+ORD100909,20-07-2025,CUST3572,Electronics,,Laptop,3,43013.43,129040.29,UPI,Delivered,4,Would buy again,Punjab,India
+ORD100910,08-03-2025,CUST4369,Beauty,,Shampoo,1,19571.85,19571.85,Debit Card,Pending,2,Product not as expected,Chhattisgarh,India
+ORD100911,14-04-2025,CUST9232,Clothing,,Saree,5,46969.88,234849.4,Cash on Delivery,Pending,5,Loved it!,Haryana,India
+ORD100912,06-11-2025,CUST5044,Electronics,,Laptop,4,3385.71,13542.84,Debit Card,Returned,4,Pretty decent,Chhattisgarh,India
+ORD100913,28-05-2025,CUST8476,Beauty,,Shampoo,5,2146.42,10732.1,Debit Card,Returned,1,Defective item,Meghalaya,India
+ORD100914,13-11-2025,CUST8079,Beauty,,Hair Dryer,2,20869.63,41739.26,Cash on Delivery,Pending,2,Quality could improve,Sikkim,India
+ORD100915,03-05-2025,CUST3587,Books,,Fiction Novel,4,34992.51,139970.04,Debit Card,Returned,1,Never buying again,Bihar,India
+ORD100916,11-10-2025,CUST2986,Home & Kitchen,,Mixer Grinder,2,45455.08,90910.16,Debit Card,Delivered,4,Good quality,Odisha,India
+ORD100917,17-04-2025,CUST9291,Books,,Biography,4,22656.61,90626.44,UPI,Pending,3,Average,Gujarat,India
+ORD100918,10-04-2025,CUST7499,Electronics,,Smartwatch,4,17314.15,69256.6,UPI,Delivered,4,Value for money,Manipur,India
+ORD100919,06-09-2025,CUST8558,Electronics,,Laptop,3,33580.72,100742.16,UPI,Delivered,4,Would buy again,Tamil Nadu,India
+ORD100920,24-03-2025,CUST3794,Clothing,,Jacket,2,23645.23,47290.46,UPI,Returned,3,Average,Himachal Pradesh,India
+ORD100921,28-03-2025,CUST2271,Clothing,,Sneakers,1,26825.76,26825.76,UPI,Returned,4,Value for money,Tripura,India
+ORD100922,12-12-2025,CUST9721,Clothing,,Jacket,3,9061.42,27184.26,Credit Card,Pending,1,Very bad product,Kerala,India
+ORD100923,27-01-2025,CUST1076,Books,,Fiction Novel,4,34579.27,138317.08,UPI,Pending,4,Satisfied with the product,Goa,India
+ORD100924,04-08-2025,CUST1457,Clothing,,Sneakers,2,10159.29,20318.58,UPI,Pending,1,Waste of money,Punjab,India
+ORD100925,27-03-2025,CUST1721,Electronics,,Laptop,1,39886.82,39886.82,Cash on Delivery,Returned,2,Not satisfied,Punjab,India
+ORD100926,17-04-2025,CUST9875,Home & Kitchen,,Vacuum Cleaner,5,31413.96,157069.8,Cash on Delivery,Pending,5,Excellent product!,Telangana,India
+ORD100927,08-01-2025,CUST7588,Clothing,,Jeans,1,17957.5,17957.5,Debit Card,Delivered,2,Product not as expected,Tamil Nadu,India
+ORD100928,29-11-2025,CUST7045,Clothing,,Jacket,2,3487.61,6975.22,UPI,Delivered,3,Okay product,Bihar,India
+ORD100929,31-12-2025,CUST9784,Beauty,,Lipstick,5,25078.89,125394.45,Credit Card,Pending,1,Very bad product,Tripura,India
+ORD100930,20-06-2025,CUST3872,Books,,Biography,4,33959.45,135837.8,Debit Card,Returned,2,Product not as expected,Uttarakhand,India
+ORD100931,18-08-2025,CUST7264,Electronics,,Headphones,1,30504.96,30504.96,Credit Card,Returned,5,Fantastic quality!,Goa,India
+ORD100932,08-06-2025,CUST4873,Electronics,,Laptop,1,30894.16,30894.16,Cash on Delivery,Delivered,1,Never buying again,Jharkhand,India
+ORD100933,14-04-2025,CUST3484,Electronics,,Smartphone,2,18851.28,37702.56,Cash on Delivery,Delivered,3,Average,Bihar,India
+ORD100934,10-03-2025,CUST5556,Clothing,,Saree,4,37014.93,148059.72,Debit Card,Returned,3,Average,Odisha,India
+ORD100935,19-06-2025,CUST6615,Books,,Children's Book,3,37577.44,112732.32,Credit Card,Delivered,2,Poor packaging,Andhra Pradesh,India
+ORD100936,24-09-2025,CUST6269,Electronics,,Laptop,2,30481.55,60963.1,Credit Card,Pending,4,Good quality,Jharkhand,India
+ORD100937,21-11-2025,CUST3318,Electronics,,Smartwatch,1,47692.33,47692.33,Credit Card,Delivered,1,Very bad product,Odisha,India
+ORD100938,01-05-2025,CUST9313,Clothing,,Saree,5,41594.8,207974.0,UPI,Pending,2,Product not as expected,Sikkim,India
+ORD100939,07-11-2025,CUST5079,Home & Kitchen,,Cookware Set,2,12397.26,24794.52,Debit Card,Pending,2,Poor packaging,Madhya Pradesh,India
+ORD100940,10-02-2025,CUST6891,Beauty,,Perfume,3,43148.79,129446.37,Cash on Delivery,Pending,4,Satisfied with the product,Madhya Pradesh,India
+ORD100941,21-03-2025,CUST8897,Beauty,,Shampoo,4,25363.57,101454.28,UPI,Pending,4,Pretty decent,Tamil Nadu,India
+ORD100942,31-03-2025,CUST5215,Electronics,,Headphones,5,26952.44,134762.2,Cash on Delivery,Pending,5,Highly recommend!,Gujarat,India
+ORD100943,06-02-2025,CUST6459,Beauty,,Lipstick,4,28194.68,112778.72,Credit Card,Returned,4,Pretty decent,Assam,India
+ORD100944,11-07-2025,CUST9051,Clothing,,Jeans,2,408.19,816.38,Cash on Delivery,Pending,5,Worth every rupee!,Odisha,India
+ORD100945,06-02-2025,CUST7697,Home & Kitchen,,Air Fryer,4,15528.98,62115.92,UPI,Delivered,5,Worth every rupee!,Tamil Nadu,India
+ORD100946,28-06-2025,CUST9349,Books,,Science Textbook,2,38194.95,76389.9,Cash on Delivery,Returned,3,Could be better,Uttarakhand,India
+ORD100947,02-09-2025,CUST1565,Electronics,,Smartwatch,4,36836.08,147344.32,Debit Card,Returned,2,Not satisfied,Rajasthan,India
+ORD100948,11-05-2025,CUST5053,Clothing,,Sneakers,5,22882.44,114412.2,Credit Card,Delivered,2,Not satisfied,Haryana,India
+ORD100949,23-09-2025,CUST4093,Electronics,,Smartwatch,4,35362.27,141449.08,Cash on Delivery,Delivered,1,Terrible experience,Bihar,India
+ORD100950,28-10-2025,CUST6045,Home & Kitchen,,Vacuum Cleaner,5,48390.63,241953.15,Cash on Delivery,Returned,4,Good quality,Tamil Nadu,India
+ORD100951,18-04-2025,CUST7520,Electronics,,Tablet,3,40748.56,122245.68,Debit Card,Delivered,3,Okay product,Tripura,India
+ORD100952,26-09-2025,CUST7829,Beauty,,Face Cream,1,3678.11,3678.11,Debit Card,Returned,4,Pretty decent,Jharkhand,India
+ORD100953,12-04-2025,CUST8970,Clothing,,Jeans,3,9482.72,28448.16,Credit Card,Returned,2,Not satisfied,West Bengal,India
+ORD100954,04-04-2025,CUST4143,Beauty,,Hair Dryer,2,9444.77,18889.54,Debit Card,Pending,1,Terrible experience,Sikkim,India
+ORD100955,13-07-2025,CUST3042,Books,,Fiction Novel,2,4174.53,8349.06,Debit Card,Delivered,1,Defective item,Punjab,India
+ORD100956,05-01-2025,CUST2000,Electronics,,Tablet,2,23999.28,47998.56,Debit Card,Delivered,1,Never buying again,Uttar Pradesh,India
+ORD100957,12-07-2025,CUST9520,Electronics,,Smartphone,2,26212.26,52424.52,Debit Card,Pending,1,Terrible experience,Bihar,India
+ORD100958,11-06-2025,CUST4925,Home & Kitchen,,Water Purifier,4,16960.2,67840.8,Debit Card,Returned,3,Fair deal,Uttar Pradesh,India
+ORD100959,21-02-2025,CUST1050,Beauty,,Hair Dryer,1,48770.19,48770.19,Cash on Delivery,Returned,3,Fair deal,Odisha,India
+ORD100960,24-05-2025,CUST5072,Clothing,,T-Shirt,5,6320.15,31600.75,Debit Card,Pending,5,Fantastic quality!,Uttar Pradesh,India
+ORD100961,23-11-2025,CUST6278,Beauty,,Hair Dryer,4,33079.37,132317.48,UPI,Returned,1,Defective item,Arunachal Pradesh,India
+ORD100962,24-07-2025,CUST2333,Electronics,,Headphones,4,11831.22,47324.88,Debit Card,Pending,4,Pretty decent,Kerala,India
+ORD100963,24-09-2025,CUST9267,Electronics,,Smartwatch,3,30437.26,91311.78,UPI,Delivered,2,Product not as expected,Nagaland,India
+ORD100964,28-03-2025,CUST8311,Electronics,,Headphones,5,49363.54,246817.7,UPI,Pending,4,Would buy again,Maharashtra,India
+ORD100965,24-02-2025,CUST8125,Clothing,,Jeans,2,8687.56,17375.12,UPI,Delivered,1,Defective item,Sikkim,India
+ORD100966,10-12-2025,CUST3016,Beauty,,Lipstick,2,36014.91,72029.82,Credit Card,Returned,4,Pretty decent,Kerala,India
+ORD100967,03-02-2025,CUST6623,Electronics,,Headphones,2,46602.64,93205.28,Cash on Delivery,Returned,5,Worth every rupee!,Assam,India
+ORD100968,29-05-2025,CUST2436,Books,,Children's Book,2,11332.83,22665.66,UPI,Delivered,1,Defective item,Mizoram,India
+ORD100969,10-06-2025,CUST7229,Books,,Science Textbook,1,28727.38,28727.38,UPI,Pending,2,Not satisfied,Rajasthan,India
+ORD100970,13-06-2025,CUST6980,Books,,Comics,2,42386.51,84773.02,Credit Card,Returned,4,Would buy again,Karnataka,India
+ORD100971,24-08-2025,CUST6176,Books,,Science Textbook,1,19886.56,19886.56,Credit Card,Pending,5,Loved it!,Andhra Pradesh,India
+ORD100972,07-12-2025,CUST1562,Beauty,,Shampoo,2,30152.98,60305.96,Debit Card,Pending,2,Poor packaging,West Bengal,India
+ORD100973,11-09-2025,CUST5775,Electronics,,Headphones,5,24018.48,120092.4,Cash on Delivery,Delivered,2,Disappointed,Maharashtra,India
+ORD100974,02-04-2025,CUST8987,Clothing,,Jeans,2,35080.29,70160.58,Cash on Delivery,Pending,1,Waste of money,Uttarakhand,India
+ORD100975,28-06-2025,CUST7412,Electronics,,Tablet,4,17003.03,68012.12,Cash on Delivery,Delivered,4,Would buy again,Meghalaya,India
+ORD100976,21-07-2025,CUST2594,Home & Kitchen,,Vacuum Cleaner,2,35115.21,70230.42,Credit Card,Pending,5,Fantastic quality!,Bihar,India
+ORD100977,12-03-2025,CUST8239,Electronics,,Headphones,4,32800.77,131203.08,Cash on Delivery,Pending,5,Loved it!,Maharashtra,India
+ORD100978,05-07-2025,CUST2670,Clothing,,Jeans,2,36818.88,73637.76,Credit Card,Pending,1,Terrible experience,Kerala,India
+ORD100979,02-04-2025,CUST1859,Clothing,,T-Shirt,1,17908.08,17908.08,UPI,Returned,4,Value for money,Rajasthan,India
+ORD100980,06-05-2025,CUST1556,Books,,Children's Book,2,31423.23,62846.46,UPI,Delivered,4,Pretty decent,Uttarakhand,India
+ORD100981,21-12-2025,CUST2468,Beauty,,Lipstick,5,47736.86,238684.3,Cash on Delivery,Returned,4,Pretty decent,Manipur,India
+ORD100982,12-02-2025,CUST2999,Home & Kitchen,,Air Fryer,3,777.8,2333.4,Cash on Delivery,Returned,1,Never buying again,Tamil Nadu,India
+ORD100983,03-09-2025,CUST5484,Clothing,,T-Shirt,5,28734.5,143672.5,UPI,Returned,5,Loved it!,Chhattisgarh,India
+ORD100984,20-02-2025,CUST6328,Beauty,,Shampoo,4,15058.49,60233.96,UPI,Returned,2,Poor packaging,Maharashtra,India
+ORD100985,29-09-2025,CUST9004,Clothing,,Jacket,1,19811.07,19811.07,UPI,Returned,5,Fantastic quality!,Goa,India
+ORD100986,03-04-2025,CUST3948,Books,,Fiction Novel,2,48290.92,96581.84,UPI,Returned,1,Terrible experience,Telangana,India
+ORD100987,01-12-2025,CUST3641,Home & Kitchen,,Mixer Grinder,1,6615.04,6615.04,UPI,Returned,2,Disappointed,Mizoram,India
+ORD100988,06-10-2025,CUST3811,Electronics,,Smartphone,1,25406.19,25406.19,Cash on Delivery,Returned,3,Average,Rajasthan,India
+ORD100989,31-05-2025,CUST9750,Clothing,,Sneakers,1,47321.49,47321.49,Cash on Delivery,Delivered,5,Fantastic quality!,Himachal Pradesh,India
+ORD100990,07-11-2025,CUST9818,Beauty,,Lipstick,5,45557.0,227785.0,Credit Card,Returned,3,Average,Punjab,India
+ORD100991,21-04-2025,CUST3198,Electronics,,Laptop,1,9566.07,9566.07,Credit Card,Returned,3,Could be better,Uttar Pradesh,India
+ORD100992,11-05-2025,CUST5270,Home & Kitchen,,Cookware Set,5,21216.35,106081.75,Cash on Delivery,Returned,5,Loved it!,Nagaland,India
+ORD100993,22-12-2025,CUST3346,Beauty,,Shampoo,1,47248.08,47248.08,Credit Card,Delivered,4,Value for money,Tripura,India
+ORD100994,06-11-2025,CUST3687,Clothing,,Sneakers,5,32934.44,164672.2,Cash on Delivery,Delivered,5,Highly recommend!,Meghalaya,India
+ORD100995,09-02-2025,CUST5425,Beauty,,Shampoo,1,48208.08,48208.08,UPI,Returned,2,Not satisfied,Manipur,India
+ORD100996,05-07-2025,CUST6464,Books,,Children's Book,1,16602.0,16602.0,Debit Card,Delivered,1,Waste of money,Maharashtra,India
+ORD100997,13-07-2025,CUST2720,Home & Kitchen,,Mixer Grinder,1,18982.37,18982.37,UPI,Delivered,2,Poor packaging,Uttarakhand,India
+ORD100998,25-12-2025,CUST5620,Home & Kitchen,,Water Purifier,4,4957.92,19831.68,Debit Card,Returned,3,Average,Telangana,India
+ORD100999,03-04-2025,CUST6655,Electronics,,Laptop,3,47336.21,142008.63,Cash on Delivery,Pending,4,Would buy again,Odisha,India
